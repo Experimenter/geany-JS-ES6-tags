@@ -1,0 +1,518 @@
+# format=pipe
+viewport|SVGRect||
+amplitude|SVGAnimatedNumber||
+SVG_PAINTTYPE_RGBCOLOR|const unsigned short||
+stdDeviationY|SVGAnimatedNumber||
+values|SVGAnimatedNumberList||
+k2|SVGAnimatedNumber||
+b|float||
+baseVal|SVGLengthList||
+getPresentationAttribute|CSSValue|( name: DOMString )|
+LENGTHADJUST_UNKNOWN|const unsigned short||
+setScale|void|( sx: float, sy: float )|
+SVG_CHANNEL_G|const unsigned short||
+removeItem|SVGPoint|( index: unsigned long )|
+rgbColor|RGBColor||
+baseVal|float||
+SVG_COLORTYPE_UNKNOWN|const unsigned short||
+largeArcFlag|boolean||
+replaceItem|SVGLength|( newItem: SVGLength, index: unsigned long )|
+SVG_MEETORSLICE_SLICE|const unsigned short||
+iccColor|SVGICCColor||
+viewTarget|SVGStringList||
+beginElement|void|()|
+cx|SVGAnimatedLength||
+baseVal|DOMString||
+selectSubString|void|( charnum: unsigned long, nchars: unsigned long )|
+rotate|SVGMatrix|( angle: float )|
+pointsAtY|SVGAnimatedNumber||
+getExtentOfChar|SVGRect|( charnum: unsigned long )|
+SVG_TURBULENCE_TYPE_TURBULENCE|const unsigned short||
+numOctaves|SVGAnimatedInteger||
+getItem|SVGPathSeg|( index: unsigned long )|
+glyphRef|DOMString||
+SVG_MEETORSLICE_MEET|const unsigned short||
+fx|SVGAnimatedLength||
+setMatrix|void|( matrix: SVGMatrix )|
+setRotate|void|( angle: float, cx: float, cy: float )|
+PATHSEG_LINETO_VERTICAL_ABS|const unsigned short||
+SVG_CHANNEL_UNKNOWN|const unsigned short||
+newValueSpecifiedUnits|void|( unitType: unsigned short, valueInSpecifiedUnits: float )|
+animVal|SVGRect||
+getEndPositionOfChar|SVGPoint|( charnum: unsigned long )|
+PATHSEG_CURVETO_CUBIC_SMOOTH_ABS|const unsigned short||
+clear|void|()|
+SVG_MARKER_ORIENT_AUTO|const unsigned short||
+previousScale|float||
+SVG_ZOOMANDPAN_UNKNOWN|const unsigned short||
+screenPixelToMillimeterX|float||
+SVG_FEBLEND_MODE_SCREEN|const unsigned short||
+PATHSEG_LINETO_HORIZONTAL_REL|const unsigned short||
+specularConstant|SVGAnimatedNumber||
+href|SVGAnimatedString||
+markerHeight|SVGAnimatedLength||
+SVG_SPREADMETHOD_REFLECT|const unsigned short||
+pathSegTypeAsLetter|DOMString||
+SVG_STITCHTYPE_STITCH|const unsigned short||
+RENDERING_INTENT_ABSOLUTE_COLORIMETRIC|const unsigned short||
+x|SVGAnimatedLengthList||
+gradientUnits|SVGAnimatedEnumeration||
+SVG_SPREADMETHOD_UNKNOWN|const unsigned short||
+animVal|SVGAngle||
+SVG_UNIT_TYPE_UNKNOWN|const unsigned short||
+x|float||
+preserveAspectRatio|SVGAnimatedPreserveAspectRatio||
+SVG_TRANSFORM_TRANSLATE|const unsigned short||
+baseVal|SVGTransformList||
+x|SVGAnimatedLength||
+d|float||
+SVG_TRANSFORM_UNKNOWN|const unsigned short||
+setRGBColor|void|( rgbColor: DOMString )|
+previousSibling|SVGElementInstance||
+contentStyleType|DOMString||
+xmlspace|DOMString||
+initialize|SVGPoint|( newItem: SVGPoint )|
+SVG_FEBLEND_MODE_UNKNOWN|const unsigned short||
+getItem|DOMString|( index: unsigned long )|
+SVG_PRESERVEASPECTRATIO_XMIDYMAX|const unsigned short||
+SVG_MORPHOLOGY_OPERATOR_ERODE|const unsigned short||
+PATHSEG_UNKNOWN|const unsigned short||
+SVG_TRANSFORM_SKEWX|const unsigned short||
+PATHSEG_MOVETO_REL|const unsigned short||
+SVG_FECOMPOSITE_OPERATOR_IN|const unsigned short||
+removeItem|SVGTransform|( index: unsigned long )|
+gradientTransform|SVGAnimatedTransformList||
+x|SVGAnimatedNumber||
+preserveAspectRatioString|DOMString||
+animationsPaused|boolean|()|
+SVG_LENGTHTYPE_MM|const unsigned short||
+spreadMethod|SVGAnimatedEnumeration||
+PATHSEG_CURVETO_QUADRATIC_REL|const unsigned short||
+unsuspendRedrawAll|void|()|
+SVG_ANGLETYPE_UNKNOWN|const unsigned short||
+insertItemBefore|SVGPoint|( newItem: SVGPoint, index: unsigned long )|
+RENDERING_INTENT_RELATIVE_COLORIMETRIC|const unsigned short||
+bias|SVGAnimatedNumber||
+matrixTransform|SVGPoint|( matrix: SVGMatrix )|
+SVG_ZOOMANDPAN_MAGNIFY|const unsigned short||
+SVG_COLORTYPE_CURRENTCOLOR|const unsigned short||
+startOffset|SVGAnimatedLength||
+translate|SVGMatrix|( x: float, y: float )|
+c|float||
+orderX|SVGAnimatedInteger||
+animatedPoints|SVGPointList||
+viewportElement|SVGElement||
+SVG_ANGLETYPE_RAD|const unsigned short||
+animVal|SVGPreserveAspectRatio||
+baseVal|SVGAngle||
+SVG_MEETORSLICE_UNKNOWN|const unsigned short||
+PATHSEG_LINETO_REL|const unsigned short||
+getRotationOfChar|float|( charnum: unsigned long )|
+height|float||
+createSVGPathSegCurvetoQuadraticSmoothAbs|SVGPathSegCurvetoQuadraticSmoothAbs|( x: float, y: float )|
+viewBox|SVGAnimatedRect||
+createSVGPathSegCurvetoQuadraticSmoothRel|SVGPathSegCurvetoQuadraticSmoothRel|( x: float, y: float )|
+height|SVGAnimatedLength||
+SVG_PAINTTYPE_URI|const unsigned short||
+e|float||
+SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA|const unsigned short||
+SVG_LENGTHTYPE_EXS|const unsigned short||
+SVG_LENGTHTYPE_PC|const unsigned short||
+getElementById|Element|( elementId: DOMString )|
+SVG_COLORTYPE_RGBCOLOR_ICCCOLOR|const unsigned short||
+createSVGMatrix|SVGMatrix|()|
+seed|SVGAnimatedNumber||
+PATHSEG_CURVETO_CUBIC_ABS|const unsigned short||
+replaceItem|SVGTransform|( newItem: SVGTransform, index: unsigned long )|
+appendItem|SVGTransform|( newItem: SVGTransform )|
+x2|float||
+appendItem|SVGNumber|( newItem: SVGNumber )|
+x2|SVGAnimatedLength||
+SVG_TRANSFORM_ROTATE|const unsigned short||
+markerWidth|SVGAnimatedLength||
+LENGTHADJUST_SPACING|const unsigned short||
+xmllang|DOMString||
+maskContentUnits|SVGAnimatedEnumeration||
+createSVGPathSegArcAbs|SVGPathSegArcAbs|( x: float, y: float, r1: float, r2: float, angle: float, largeArcFlag: boolean, sweepFlag: boolean )|
+initialize|DOMString|( newItem: DOMString )|
+kernelUnitLengthX|SVGAnimatedNumber||
+SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE|const unsigned short||
+endElement|void|()|
+multiply|SVGMatrix|( secondMatrix: SVGMatrix )|
+deselectAll|void|()|
+removeItem|SVGNumber|( index: unsigned long )|
+renderingIntent|unsigned short||
+createSVGPathSegMovetoAbs|SVGPathSegMovetoAbs|( x: float, y: float )|
+setCurrentTime|void|( seconds: float )|
+RENDERING_INTENT_SATURATION|const unsigned short||
+length|unsigned long||
+points|SVGPointList||
+getSimpleDuration|float|()|
+animVal|long||
+y|SVGAnimatedLengthList||
+SVG_FECOMPONENTTRANSFER_TYPE_UNKNOWN|const unsigned short||
+SVG_EDGEMODE_NONE|const unsigned short||
+referrer|DOMString||
+matrix|SVGMatrix||
+requiredExtensions|SVGStringList||
+SVG_PRESERVEASPECTRATIO_XMINYMAX|const unsigned short||
+nextSibling|SVGElementInstance||
+currentTranslate|SVGPoint||
+zoomRectScreen|SVGRect||
+SVG_TRANSFORM_MATRIX|const unsigned short||
+y|float||
+createSVGNumber|SVGNumber|()|
+normalizedPathSegList|SVGPathSegList||
+SVG_UNIT_TYPE_OBJECTBOUNDINGBOX|const unsigned short||
+requiredFeatures|SVGStringList||
+y|SVGAnimatedLength||
+setStdDeviation|void|( stdDeviationX: float, stdDeviationY: float )|
+elevation|SVGAnimatedNumber||
+flipX|SVGMatrix|()|
+getIntersectionList|NodeList|( rect: SVGRect, referenceElement: SVGElement )|
+SVG_PAINTTYPE_URI_NONE|const unsigned short||
+baseVal|SVGPreserveAspectRatio||
+SVG_FECOMPOSITE_OPERATOR_XOR|const unsigned short||
+rx|SVGAnimatedLength||
+scale|SVGMatrix|( scaleFactor: float )|
+SVG_PRESERVEASPECTRATIO_XMAXYMIN|const unsigned short||
+baseVal|boolean||
+SVG_TRANSFORM_SCALE|const unsigned short||
+getPathSegAtLength|unsigned long|( distance: float )|
+lastChild|SVGElementInstance||
+orientAngle|SVGAnimatedAngle||
+PATHSEG_ARC_REL|const unsigned short||
+SVG_FECOMPOSITE_OPERATOR_ARITHMETIC|const unsigned short||
+r1|float||
+animVal|SVGLength||
+fy|SVGAnimatedLength||
+SVG_PAINTTYPE_RGBCOLOR_ICCCOLOR|const unsigned short||
+beginElementAt|void|( offset: float )|
+local|DOMString||
+clipPathUnits|SVGAnimatedEnumeration||
+suspendRedraw|unsigned long|( maxWaitMilliseconds: unsigned long )|
+tableValues|SVGAnimatedNumberList||
+yChannelSelector|SVGAnimatedEnumeration||
+markerUnits|SVGAnimatedEnumeration||
+appendItem|SVGPoint|( newItem: SVGPoint )|
+SVG_FECOMPONENTTRANSFER_TYPE_GAMMA|const unsigned short||
+SVG_EDGEMODE_UNKNOWN|const unsigned short||
+createSVGPathSegLinetoHorizontalAbs|SVGPathSegLinetoHorizontalAbs|( x: float )|
+TEXTPATH_METHODTYPE_ALIGN|const unsigned short||
+firstChild|SVGElementInstance||
+SVG_PAINTTYPE_URI_RGBCOLOR_ICCCOLOR|const unsigned short||
+newTranslate|SVGPoint||
+PATHSEG_MOVETO_ABS|const unsigned short||
+childNodes|SVGElementInstanceList||
+uri|DOMString||
+appendItem|SVGPathSeg|( newItem: SVGPathSeg )|
+SVG_LENGTHTYPE_IN|const unsigned short||
+createSVGPathSegCurvetoCubicSmoothAbs|SVGPathSegCurvetoCubicSmoothAbs|( x: float, y: float, x2: float, y2: float )|
+SVG_LENGTHTYPE_EMS|const unsigned short||
+targetY|SVGAnimatedInteger||
+src|DOMString||
+createSVGTransform|SVGTransform|()|
+exponent|SVGAnimatedNumber||
+animatedNormalizedPathSegList|SVGPathSegList||
+getTransformToElement|SVGMatrix|( element: SVGElement )|
+SVG_TURBULENCE_TYPE_UNKNOWN|const unsigned short||
+SVG_LENGTHTYPE_PERCENTAGE|const unsigned short||
+insertItemBefore|SVGLength|( newItem: SVGLength, index: unsigned long )|
+scaleNonUniform|SVGMatrix|( scaleFactorX: float, scaleFactorY: float )|
+SVG_MARKER_ORIENT_ANGLE|const unsigned short||
+setRGBColorICCColor|void|( rgbColor: DOMString, iccColor: DOMString )|
+r|SVGAnimatedLength||
+PATHSEG_CURVETO_CUBIC_REL|const unsigned short||
+SVG_FECOLORMATRIX_TYPE_HUEROTATE|const unsigned short||
+SVG_PRESERVEASPECTRATIO_XMIDYMIN|const unsigned short||
+inverse|SVGMatrix|()|
+getStartTime|float|()|
+hasExtension|boolean|( extension: DOMString )|
+PATHSEG_LINETO_HORIZONTAL_ABS|const unsigned short||
+SVG_FEBLEND_MODE_DARKEN|const unsigned short||
+kernelUnitLengthY|SVGAnimatedNumber||
+SVG_FECOMPOSITE_OPERATOR_OVER|const unsigned short||
+paintType|unsigned short||
+preserveAlpha|SVGAnimatedBoolean||
+skewX|SVGMatrix|( angle: float )|
+createSVGPathSegArcRel|SVGPathSegArcRel|( x: float, y: float, r1: float, r2: float, angle: float, largeArcFlag: boolean, sweepFlag: boolean )|
+diffuseConstant|SVGAnimatedNumber||
+transform|SVGAnimatedTransformList||
+createSVGPathSegCurvetoQuadraticAbs|SVGPathSegCurvetoQuadraticAbs|( x: float, y: float, x1: float, y1: float )|
+getCurrentTime|float|()|
+removeItem|SVGPathSeg|( index: unsigned long )|
+createSVGPathSegLinetoVerticalRel|SVGPathSegLinetoVerticalRel|( y: float )|
+SVG_FECOLORMATRIX_TYPE_MATRIX|const unsigned short||
+createSVGTransformFromMatrix|SVGTransform|( matrix: SVGMatrix )|
+scale|SVGAnimatedNumber||
+nearestViewportElement|SVGElement||
+in2|SVGAnimatedString||
+TEXTPATH_METHODTYPE_STRETCH|const unsigned short||
+setUri|void|( uri: DOMString )|
+setSkewX|void|( angle: float )|
+rootElement|SVGSVGElement||
+insertItemBefore|DOMString|( newItem: DOMString, index: unsigned long )|
+setSkewY|void|( angle: float )|
+SVG_EDGEMODE_WRAP|const unsigned short||
+baseVal|SVGRect||
+SVG_FECOLORMATRIX_TYPE_SATURATE|const unsigned short||
+SVG_CHANNEL_B|const unsigned short||
+limitingConeAngle|SVGAnimatedNumber||
+SVG_LENGTHTYPE_NUMBER|const unsigned short||
+SVG_PRESERVEASPECTRATIO_XMIDYMID|const unsigned short||
+radiusY|SVGAnimatedNumber||
+SVG_SPREADMETHOD_REPEAT|const unsigned short||
+endElementAt|void|( offset: float )|
+filterResY|SVGAnimatedInteger||
+k3|SVGAnimatedNumber||
+viewTarget|SVGElement||
+SVG_MORPHOLOGY_OPERATOR_DILATE|const unsigned short||
+valueAsString|DOMString||
+URL|DOMString||
+newScale|float||
+appendItem|DOMString|( newItem: DOMString )|
+RENDERING_INTENT_UNKNOWN|const unsigned short||
+SVG_TRANSFORM_SKEWY|const unsigned short||
+setColor|void|( colorType: unsigned short, rgbColor: DOMString, iccColor: DOMString )|
+SVG_MARKERUNITS_UNKNOWN|const unsigned short||
+SVG_PAINTTYPE_URI_RGBCOLOR|const unsigned short||
+f|float||
+stitchTiles|SVGAnimatedEnumeration||
+removeItem|DOMString|( index: unsigned long )|
+createSVGAngle|SVGAngle|()|
+replaceItem|SVGPathSeg|( newItem: SVGPathSeg, index: unsigned long )|
+createSVGPathSegMovetoRel|SVGPathSegMovetoRel|( x: float, y: float )|
+createSVGPathSegLinetoVerticalAbs|SVGPathSegLinetoVerticalAbs|( y: float )|
+getItem|SVGLength|( index: unsigned long )|
+SVG_MARKERUNITS_USERSPACEONUSE|const unsigned short||
+skewY|SVGMatrix|( angle: float )|
+TEXTPATH_METHODTYPE_UNKNOWN|const unsigned short||
+operator|SVGAnimatedEnumeration||
+y2|float||
+ownerSVGElement|SVGSVGElement||
+edgeMode|SVGAnimatedEnumeration||
+in1|SVGAnimatedString||
+colors|SVGNumberList||
+y2|SVGAnimatedLength||
+COLOR_PROFILE_RULE|const unsigned short||
+PATHSEG_CURVETO_QUADRATIC_SMOOTH_REL|const unsigned short||
+SVG_COLORTYPE_RGBCOLOR|const unsigned short||
+setTranslate|void|( tx: float, ty: float )|
+SVG_LENGTHTYPE_PT|const unsigned short||
+SVG_MARKERUNITS_STROKEWIDTH|const unsigned short||
+r2|float||
+getEnclosureList|NodeList|( rect: SVGRect, referenceElement: SVGElement )|
+PATHSEG_CURVETO_QUADRATIC_ABS|const unsigned short||
+PATHSEG_ARC_ABS|const unsigned short||
+primitiveUnits|SVGAnimatedEnumeration||
+pathLength|SVGAnimatedNumber||
+value|float||
+surfaceScale|SVGAnimatedNumber||
+SVG_PAINTTYPE_NONE|const unsigned short||
+lengthAdjust|SVGAnimatedEnumeration||
+patternTransform|SVGAnimatedTransformList||
+x1|SVGAnimatedLength||
+a|float||
+initialize|SVGLength|( newItem: SVGLength )|
+targetX|SVGAnimatedInteger||
+getNumberOfChars|long|()|
+meetOrSlice|unsigned short||
+format|DOMString||
+mode|SVGAnimatedEnumeration||
+rotate|SVGAnimatedNumberList||
+getCTM|SVGMatrix|()|
+xChannelSelector|SVGAnimatedEnumeration||
+createSVGPathSegLinetoHorizontalRel|SVGPathSegLinetoHorizontalRel|( x: float )|
+rotateFromVector|SVGMatrix|( x: float, y: float )|
+replaceItem|SVGPoint|( newItem: SVGPoint, index: unsigned long )|
+getItem|SVGPoint|( index: unsigned long )|
+offset|SVGAnimatedNumber||
+y|SVGAnimatedNumber||
+SVG_LENGTHTYPE_UNKNOWN|const unsigned short||
+className|SVGAnimatedString||
+replaceItem|SVGNumber|( newItem: SVGNumber, index: unsigned long )|
+type|unsigned short||
+TEXTPATH_SPACINGTYPE_UNKNOWN|const unsigned short||
+SVG_CHANNEL_A|const unsigned short||
+getScreenCTM|SVGMatrix|()|
+transform|SVGTransformList||
+y1|float||
+SVG_STITCHTYPE_UNKNOWN|const unsigned short||
+RENDERING_INTENT_AUTO|const unsigned short||
+SVG_FECOMPONENTTRANSFER_TYPE_TABLE|const unsigned short||
+y1|SVGAnimatedLength||
+unitType|unsigned short||
+SVG_STITCHTYPE_NOSTITCH|const unsigned short||
+createSVGPathSegCurvetoQuadraticRel|SVGPathSegCurvetoQuadraticRel|( x: float, y: float, x1: float, y1: float )|
+SVG_MORPHOLOGY_OPERATOR_UNKNOWN|const unsigned short||
+numberOfItems|unsigned long||
+sweepFlag|boolean||
+unsuspendRedraw|void|( suspendHandleID: unsigned long )|
+useCurrentView|boolean||
+xmlbase|DOMString||
+valueInSpecifiedUnits|float||
+contentScriptType|DOMString||
+colorProfile|DOMString||
+baseVal|long||
+pointsAtX|SVGAnimatedNumber||
+pathSegType|unsigned short||
+TEXTPATH_SPACINGTYPE_AUTO|const unsigned short||
+SVG_TURBULENCE_TYPE_FRACTALNOISE|const unsigned short||
+getStartPositionOfChar|SVGPoint|( charnum: unsigned long )|
+setOrientToAngle|void|( angle: SVGAngle )|
+createSVGRect|SVGRect|()|
+animatedPathSegList|SVGPathSegList||
+animVal|unsigned short||
+PATHSEG_CURVETO_CUBIC_SMOOTH_REL|const unsigned short||
+PATHSEG_CURVETO_QUADRATIC_SMOOTH_ABS|const unsigned short||
+k4|SVGAnimatedNumber||
+PATHSEG_LINETO_VERTICAL_REL|const unsigned short||
+SVG_SPREADMETHOD_PAD|const unsigned short||
+z|SVGAnimatedNumber||
+initialize|SVGNumber|( newItem: SVGNumber )|
+animVal|SVGTransformList||
+SVG_ANGLETYPE_GRAD|const unsigned short||
+id|DOMString||
+intercept|SVGAnimatedNumber||
+setFilterRes|void|( filterResX: unsigned long, filterResY: unsigned long )|
+transformString|DOMString||
+SVG_EDGEMODE_DUPLICATE|const unsigned short||
+getCharNumAtPosition|long|( point: SVGPoint )|
+baseVal|SVGLength||
+getComputedTextLength|float|()|
+cy|SVGAnimatedLength||
+setPaint|void|( paintType: unsigned short, uri: DOMString, rgbColor: DOMString, iccColor: DOMString )|
+TEXTPATH_SPACINGTYPE_EXACT|const unsigned short||
+align|unsigned short||
+width|float||
+SVG_FEBLEND_MODE_LIGHTEN|const unsigned short||
+SVG_PRESERVEASPECTRATIO_UNKNOWN|const unsigned short||
+SVG_FECOMPONENTTRANSFER_TYPE_LINEAR|const unsigned short||
+width|SVGAnimatedLength||
+getItem|SVGTransform|( index: unsigned long )|
+animVal|SVGNumberList||
+zoomAndPan|unsigned short||
+dx|SVGAnimatedLengthList||
+forceRedraw|void|()|
+LENGTHADJUST_SPACINGANDGLYPHS|const unsigned short||
+SVG_PRESERVEASPECTRATIO_XMAXYMAX|const unsigned short||
+viewTargetString|DOMString||
+colorType|unsigned short||
+farthestViewportElement|SVGElement||
+pauseAnimations|void|()|
+SVG_LENGTHTYPE_CM|const unsigned short||
+dx|float||
+patternUnits|SVGAnimatedEnumeration||
+baseFrequencyY|SVGAnimatedNumber||
+externalResourcesRequired|SVGAnimatedBoolean||
+SVG_FEBLEND_MODE_NORMAL|const unsigned short||
+getTotalLength|float|()|
+dy|SVGAnimatedLengthList||
+item|SVGElementInstance|( index: unsigned long )|
+viewBoxString|DOMString||
+PATHSEG_CLOSEPATH|const unsigned short||
+instanceRoot|SVGElementInstance||
+baseVal|unsigned short||
+dy|float||
+appendItem|SVGLength|( newItem: SVGLength )|
+SVG_FECOMPOSITE_OPERATOR_UNKNOWN|const unsigned short||
+ry|SVGAnimatedLength||
+previousTranslate|SVGPoint||
+dx|SVGAnimatedNumber||
+SVG_LENGTHTYPE_PX|const unsigned short||
+specularExponent|SVGAnimatedNumber||
+SVG_FECOLORMATRIX_TYPE_UNKNOWN|const unsigned short||
+type|SVGAnimatedEnumeration||
+checkIntersection|boolean|( element: SVGElement, rect: SVGRect )|
+RENDERING_INTENT_PERCEPTUAL|const unsigned short||
+currentView|SVGViewSpec||
+filterResX|SVGAnimatedInteger||
+dy|SVGAnimatedNumber||
+createSVGLength|SVGLength|()|
+SVG_ANGLETYPE_DEG|const unsigned short||
+replaceItem|DOMString|( newItem: DOMString, index: unsigned long )|
+SVG_PAINTTYPE_URI_CURRENTCOLOR|const unsigned short||
+animatedInstanceRoot|SVGElementInstance||
+insertItemBefore|SVGPathSeg|( newItem: SVGPathSeg, index: unsigned long )|
+initialize|SVGPathSeg|( newItem: SVGPathSeg )|
+createSVGPathSegCurvetoCubicRel|SVGPathSegCurvetoCubicRel|( x: float, y: float, x1: float, y1: float, x2: float, y2: float )|
+pointsAtZ|SVGAnimatedNumber||
+SVG_FECOMPOSITE_OPERATOR_OUT|const unsigned short||
+patternContentUnits|SVGAnimatedEnumeration||
+getSubStringLength|float|( charnum: unsigned long, nchars: unsigned long )|
+name|DOMString||
+target|SVGAnimatedString||
+angle|float||
+getBBox|SVGRect|()|
+baseVal|SVGNumberList||
+insertItemBefore|SVGTransform|( newItem: SVGTransform, index: unsigned long )|
+consolidate|SVGTransform|()|
+pixelUnitToMillimeterY|float||
+type|DOMString||
+correspondingUseElement|SVGUseElement||
+SVG_ZOOMANDPAN_DISABLE|const unsigned short||
+systemLanguage|SVGStringList||
+getItem|SVGNumber|( index: unsigned long )|
+checkEnclosure|boolean|( element: SVGElement, rect: SVGRect )|
+SVG_PRESERVEASPECTRATIO_XMINYMID|const unsigned short||
+SVG_PRESERVEASPECTRATIO_NONE|const unsigned short||
+setOrientToAuto|void|()|
+screenPixelToMillimeterY|float||
+divisor|SVGAnimatedNumber||
+result|SVGAnimatedString||
+SVG_PAINTTYPE_CURRENTCOLOR|const unsigned short||
+currentScale|float||
+orderY|SVGAnimatedInteger||
+azimuth|SVGAnimatedNumber||
+SVG_FEBLEND_MODE_MULTIPLY|const unsigned short||
+PATHSEG_LINETO_ABS|const unsigned short||
+SVG_PRESERVEASPECTRATIO_XMAXYMID|const unsigned short||
+animVal|boolean||
+createSVGPathSegLinetoAbs|SVGPathSegLinetoAbs|( x: float, y: float )|
+radiusX|SVGAnimatedNumber||
+x1|float||
+title|DOMString||
+SVG_PRESERVEASPECTRATIO_XMINYMIN|const unsigned short||
+flipY|SVGMatrix|()|
+createSVGPoint|SVGPoint|()|
+targetElement|SVGElement||
+animVal|SVGLengthList||
+removeItem|SVGLength|( index: unsigned long )|
+filterUnits|SVGAnimatedEnumeration||
+animVal|float||
+media|DOMString||
+createSVGPathSegCurvetoCubicAbs|SVGPathSegCurvetoCubicAbs|( x: float, y: float, x1: float, y1: float, x2: float, y2: float )|
+pixelUnitToMillimeterX|float||
+slope|SVGAnimatedNumber||
+createSVGPathSegClosePath|SVGPathSegClosePath|()|
+refX|SVGAnimatedLength||
+style|CSSStyleDeclaration||
+animVal|DOMString||
+SVG_PAINTTYPE_UNKNOWN|const unsigned short||
+domain|DOMString||
+SVG_ANGLETYPE_UNSPECIFIED|const unsigned short||
+SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY|const unsigned short||
+SVG_UNIT_TYPE_USERSPACEONUSE|const unsigned short||
+orientType|SVGAnimatedEnumeration||
+baseFrequencyX|SVGAnimatedNumber||
+insertItemBefore|SVGNumber|( newItem: SVGNumber, index: unsigned long )|
+SVG_MARKER_ORIENT_UNKNOWN|const unsigned short||
+createSVGPathSegLinetoRel|SVGPathSegLinetoRel|( x: float, y: float )|
+refY|SVGAnimatedLength||
+createSVGPathSegCurvetoCubicSmoothRel|SVGPathSegCurvetoCubicSmoothRel|( x: float, y: float, x2: float, y2: float )|
+k1|SVGAnimatedNumber||
+convertToSpecifiedUnits|void|( unitType: unsigned short )|
+correspondingElement|SVGElement||
+textLength|SVGAnimatedLength||
+getPointAtLength|SVGPoint|( distance: float )|
+maskUnits|SVGAnimatedEnumeration||
+initialize|SVGTransform|( newItem: SVGTransform )|
+kernelMatrix|SVGAnimatedNumberList||
+SVG_CHANNEL_R|const unsigned short||
+method|SVGAnimatedEnumeration||
+unpauseAnimations|void|()|
+spacing|SVGAnimatedEnumeration||
+parentNode|SVGElementInstance||
+pathSegList|SVGPathSegList||
+stdDeviationX|SVGAnimatedNumber||
+SVG_FECOMPOSITE_OPERATOR_ATOP|const unsigned short||

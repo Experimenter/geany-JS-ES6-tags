@@ -1,0 +1,2010 @@
+# format=pipe
+LN2|number NativeScript -||
+msCachingEnabled|boolean NativeScript -|()|
+currentTarget|EventTarget NativeScript -||
+now|number NativeScript -|()|
+set|void NativeScript -|( array: Uint8ClampedArray, offset?: number )|
+isAvailable|Boolean NativeScript - Module|()|
+stop|void NativeScript -|()|
+prototype|Arrayany NativeScript -||
+posY|number NativeScript -||
+RESOURCE_PREFIX|string NativeScript - Module||
+subarray|Int32Array NativeScript -|( begin: number, end?: number )|
+copyWithin|Float32Array NativeScript -|( target: number, start: number, end?: number )|
+isKnownName|boolean NativeScript - Module|( name: string )|
+ItemSpec|ItemSpec NativeScript -|( value: number, type: "pixel" )|
+reverse|Uint8Array NativeScript -|()|
+reduce|TT NativeScript -|( callbackfn: function, initialValue?: T )|
+TabView|TabView NativeScript -|( json?: any )|
+LightSteelBlue|any NativeScript - Module||
+from|numberUint32Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+showModal|Page NativeScript -|( page: Page, context: any, closeCallback: Function, fullscreen?: boolean )|
+removeColumns|void NativeScript -|()|
+on|void NativeScript -|( event: "change", callback: function, thisArg?: any )|
+charCodeAt|number NativeScript -|( index: number )|
+getValue|any NativeScript -|( model: any, isBackConvert: any, changedModel: any )|
+BYTES_PER_ELEMENT|number NativeScript -||
+readSync|anyany NativeScript -|( onError?: function )|
+LightYellow|any NativeScript - Module||
+_disableNavBarAnimation|boolean NativeScript -||
+getKeyframeAnimationWithName|KeyframeAnimationInfo NativeScript -|( animationName: string )|
+keyboardType|string NativeScript -||
+name|string NativeScript -||
+cssName|string NativeScript -||
+action|Promisestring NativeScript - Module|( options: ActionOptions )|
+setFloat32|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+metadata|PropertyMetadata NativeScript -||
+strikethrough|number NativeScript -||
+addEventListener|any NativeScript -|( type: "loadend", listener: function, useCapture?: boolean )|
+map|UU NativeScript - Array<T,|<U>( callbackfn: function, thisArg?: any )|
+DarkOrange|any NativeScript - Module||
+prototype|Object NativeScript -||
+of|Uint32Array NativeScript -|( _..items: number[] )|
+SegmentedBarItem|SegmentedBarItem NativeScript -|( json?: any )|
+onDestroy|void NativeScript -|( fragment: any, superFunc: Function )|
+open|void NativeScript -|( method: string, url: string, async?: boolean, user?: string, password?: string )|
+marginLeft|number NativeScript -||
+Color|Color NativeScript -|( knownColor: string )|
+goForward|any NativeScript -|()|
+parent|Folder NativeScript -||
+AndroidFrame|AndroidFrame NativeScript -|( json?: any )|
+isLayoutRequired|boolean NativeScript -||
+prototype|Function NativeScript -||
+onloadstart|functionEventanyEventany NativeScript -||
+then|U NativeScript - PromiseLike<T,|<U>( onFulfilled?: function, onRejected?: function )|
+setInt8|void NativeScript -|( byteOffset: number, value: number )|
+translateX|number NativeScript -||
+CustomLayoutView|CustomLayoutView NativeScript -|( json?: any )|
+completed|functionanystringvoidanystringvoid NativeScript -||
+console|Console NativeScript - Module||
+ControlStateChangeListener|ControlStateChangeListener NativeScript -|( state: string )|
+apply|void NativeScript -|()|
+expression|string NativeScript -||
+lastMatch|string NativeScript -||
+VirtualArray|VirtualArray<T> NativeScript -|<T>( arrayLength?: number )|
+Static|Property NativeScript -| imageSourceProperty|
+comment|boolean NativeScript -||
+measureChild|object NativeScript -|( parent: View, child: View, widthMeasureSpec: number, heightMeasureSpec: number )|
+getClassInfo|ClassInfo NativeScript - Module|( object: Object )|
+removeRow|void NativeScript -|( itemSpec: ItemSpec )|
+type|"" NativeScript -||
+paddingBottom|number NativeScript -||
+getString|string NativeScript - Module|( key: string, defaultValue?: string )|
+lastIndexOf|number NativeScript - Array<T,|( searchElement: T, fromIndex?: number )|
+toTimeString|string NativeScript -|()|
+prototype|Uint16Array NativeScript -||
+item|any NativeScript -||
+neutralButtonText|string NativeScript -||
+withColor|Background NativeScript -|( value: Color )|
+_onFragmentHidden|void NativeScript - Module|( fragment: any, isBack: boolean, destroyed: boolean )|
+DarkViolet|any NativeScript - Module||
+catch|PromiseLikeU NativeScript -|<U>( onRejected?: function )|
+getRowSpan|number NativeScript -|( view: View )|
+query|SelectorCore NativeScript -|( options: Node )|
+Static|Property NativeScript -| isScrollingProperty|
+Response|Response NativeScript -|( body?: BodyInit, init?: ResponseInit )|
+getResponseHeader|string NativeScript -|( header: string )|
+onUnloaded|void NativeScript -|()|
+font|string NativeScript -||
+onNavigatedTo|void NativeScript -|( isBackNavigation: boolean )|
+configurable|boolean NativeScript -||
+TimePicker|TimePicker NativeScript -|( json?: any )|
+load|View NativeScript - Module|( fileName: string, exports?: any )|
+DeepSkyBlue|any NativeScript - Module||
+substr|string NativeScript -|( from: number, length?: number )|
+topMarginPercent|number NativeScript -||
+fill|Int8Array NativeScript -|( value: number, start?: number, end?: number )|
+copyWithin|Int8Array NativeScript -|( target: number, start: number, end?: number )|
+getUTCDate|number NativeScript -|()|
+PromiseConstructor|PromiseConstructor NativeScript -|( resolve: function, reject: function )|
+caller|Function NativeScript -||
+isCategorySet|boolean NativeScript - Module|( category: string )|
+addWriter|any NativeScript - Module|( writer: TraceWriter )|
+credentials|RequestCredentials NativeScript -||
+getCurve|any NativeScript -|()|
+from|numberUint8ClampedArray NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+DateConstructor|DateConstructor NativeScript -|( value: string )|
+toLocaleTimeString|string NativeScript -|()|
+push|number NativeScript -|( _..items: T[] )|
+create|functionPagePage NativeScript -||
+horizontalAlignment|string NativeScript -||
+DarkSlateBlue|any NativeScript - Module||
+get|V NativeScript - Map<K,|( key: K )|
+addEventListener|anyvoid NativeScript -|( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean )|
+setSeconds|number NativeScript -|( sec: number, ms?: number )|
+_onPropertyChangedFromNative|void NativeScript -|( property: Property, newValue: any )|
+removeSync|anyvoid NativeScript -|( onError?: function )|
+sort|numberInt32Array NativeScript -|( compareFn?: function )|
+StylePropertyChangedHandler|StylePropertyChangedHandler NativeScript -|( view: View, nativeValue: any )|
+GhostWhite|any NativeScript - Module||
+min|number NativeScript -|( _..values: number[] )|
+on|voidany NativeScript -|( event: "loadStarted", callback: function, thisArg?: any )|
+Placeholder|Placeholder NativeScript -|( json?: any )|
+dir|void NativeScript -|( obj: any )|
+prototype|Number NativeScript -||
+minMinute|number NativeScript -||
+max|number NativeScript -|( _..values: number[] )|
+attributes|any NativeScript -||
+LOG10E|number NativeScript -||
+Static|string NativeScript -| navigatingToEvent|
+visualStateValue|any NativeScript -||
+_cssState|any NativeScript -||
+addColumn|void NativeScript -|( itemSpec: ItemSpec )|
+resolvedPage|Page NativeScript -||
+getLeft|number NativeScript -|( view: View )|
+fromPath|Folder NativeScript -|( path: string )|
+of|Uint8ClampedArray NativeScript -|( _..items: number[] )|
+isEventOrGesture|boolean NativeScript - Module|( name: string, view: View )|
+then|PromiseLikeUUPromiseU NativeScript -|<U>( onFulfilled?: function, onRejected?: function )|
+Khaki|any NativeScript - Module||
+ProxyObject|ProxyObject NativeScript -|( json?: any )|
+values|ArrayV NativeScript - Map<K,|()|
+setFloat64|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+enabled|boolean NativeScript - Module||
+addEventListener|any NativeScript - Module|( listener: EventListener )|
+_resetValues|void NativeScript -|( valueSource: number )|
+PapayaWhip|any NativeScript - Module||
+twoWay|boolean NativeScript -||
+DodgerBlue|any NativeScript - Module||
+rename|Promiseany NativeScript -|( newName: string )|
+getDock|string NativeScript -|( view: View )|
+getUint8|number NativeScript -|( byteOffset: number )|
+updateDistance|number NativeScript -||
+language|string NativeScript -||
+LightGreen|any NativeScript - Module||
+Peru|any NativeScript - Module||
+letterSpacing|number NativeScript -||
+replace|string NativeScript -|( searchValue: RegExp, replacer: function )|
+ios|any NativeScript -||
+enqueue|any NativeScript -|( request: DownloadRequest )|
+setFragmentCallbacks|void NativeScript - Module|( fragment: any )|
+decodeURIComponent|string NativeScript - Module|( encodedURIComponent: string )|
+defaultValue|any NativeScript -||
+parseInt|number NativeScript - Module|( s: string, radix?: number )|
+withClipPath|Background NativeScript -|( value: string )|
+reduce|number NativeScript -|<U>( callbackfn: function, initialValue: U )|
+alert|void NativeScript - Module|( message?: any )|
+isAttribute|boolean NativeScript - Module|( sel: SimpleSelector )|
+SeaGreen|any NativeScript - Module||
+pop|T NativeScript - Array<T,|()|
+addEventListener|anyvoid NativeScript -|( type: "timeout", listener: function, useCapture?: boolean )|
+eventName|string NativeScript -||
+parent|View NativeScript -||
+Image|Image NativeScript -|( json?: any )|
+load|void NativeScript -|( index: number, items: T[] )|
+bubbles|boolean NativeScript -||
+_prepareCurrentFragmentForClearHistory|void NativeScript - Module|( fragment: any )|
+Uint8ArrayConstructor|Uint8ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+of|Float64Array NativeScript -|( _..items: number[] )|
+read|anyany NativeScript -|( path: string, onError?: function )|
+YellowGreen|any NativeScript - Module||
+url|string NativeScript -||
+fromData|Promiseboolean NativeScript -|( data: any )|
+getPropertyByCssName|Property NativeScript - Module|( name: string )|
+Static|string NativeScript -| propertyChangeEvent|
+from|numberFloat64Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+maxDate|Date NativeScript -||
+DarkTurquoise|any NativeScript - Module||
+redirect|Response NativeScript -|( url: string, status: number )|
+DarkOliveGreen|any NativeScript - Module||
+closeCallback|Function NativeScript -||
+prototype|Int16Array NativeScript -||
+Thistle|any NativeScript - Module||
+Crimson|any NativeScript - Module||
+ontimeout|functionProgressEventanyProgressEventany NativeScript -||
+PseudoClassHandler|MethodDecorator NativeScript - Module|( _..pseudoClasses: string[] )|
+reduce|numbernumber NativeScript -|( callbackfn: function, initialValue?: number )|
+icon|string NativeScript -||
+Static|Property NativeScript -| topProperty|
+Lavender|any NativeScript - Module||
+altitude|number NativeScript -||
+_onBindingContextChanged|any NativeScript -|( oldValue: any, newValue: any )|
+backstackVisible|boolean NativeScript -||
+Color|Color NativeScript -|( argb: number )|
+isDefined|boolean NativeScript - Module|( value: any )|
+updateTextTrigger|string NativeScript -||
+filter|booleanUint16Array NativeScript -|( callbackfn: function, thisArg?: any )|
+backgroundSpanUnderStatusBar|boolean NativeScript -||
+on|voidvoid NativeScript -|( eventNames: string, callback: function, thisArg?: any )|
+defineProperties|any NativeScript -|( o: any, properties: PropertyDescriptorMap )|
+size|number NativeScript -||
+removeWriter|any NativeScript - Module|( writer: TraceWriter )|
+verticalAlignmentProperty|Property NativeScript - Module||
+on|voidany NativeScript -|( eventNames: string | GestureTypes, callback: function, thisArg?: any )|
+LawnGreen|any NativeScript - Module||
+ns|void NativeScript -|( root: string, ns: any )|
+Beige|any NativeScript - Module||
+reverse|Int16Array NativeScript -|()|
+Float64ArrayConstructor|Float64ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+isSealed|boolean NativeScript -|( o: any )|
+isType|boolean NativeScript - Module|( sel: SimpleSelector )|
+seal|T NativeScript -|<T>( o: T )|
+Uint32ArrayConstructor|Uint32ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+heightDIPs|number NativeScript -||
+getBoolean|boolean NativeScript - Module|( key: string, defaultValue?: boolean )|
+stretch|string NativeScript -||
+position|string NativeScript -||
+isPlaying|boolean NativeScript -||
+column|number NativeScript -||
+Observable|Observable NativeScript -|( json?: any )|
+AT_TARGET|number NativeScript -||
+Green|any NativeScript - Module||
+page|View NativeScript -||
+removeItem|void NativeScript -|( item: ActionItem )|
+create|any NativeScript -|( o: any, properties?: PropertyDescriptorMap )|
+Static|Property NativeScript -| backgroundSpanUnderStatusBarProperty|
+toJSON|string NativeScript -|( key?: any )|
+text|Promisestring NativeScript -|()|
+type|":" NativeScript -||
+Olive|any NativeScript - Module||
+filter|booleanU NativeScript - Array<T,|<U>( pred: function )|
+_updateActionBar|any NativeScript -|( page?: Page )|
+referrer|string NativeScript -||
+r|number NativeScript -||
+toString|string NativeScript -|( radix?: number )|
+rename|anyvoid NativeScript -|( path: string, newPath: string, onError?: function )|
+confirm|Promiseboolean NativeScript - Module|( options: ConfirmOptions )|
+prototype|Promiseany NativeScript -||
+Static|string NativeScript -| Delete|
+goBack|any NativeScript - Module|()|
+Static|Property NativeScript -| isLoadingProperty|
+pop|string NativeScript -|()|
+separatorColor|Color NativeScript -||
+getUTCSeconds|number NativeScript -|()|
+backgroundPositionProperty|Property NativeScript - Module||
+Static|Property NativeScript -| valueProperty|
+scale|number NativeScript -||
+_setNativeTime|void NativeScript -|()|
+Maroon|any NativeScript - Module||
+LayoutBase|LayoutBase NativeScript -|( json?: any )|
+setDate|number NativeScript -|( date: number )|
+match|RegExpMatchArray NativeScript -|( regexp: string )|
+textAlignment|string NativeScript -||
+actionView|View NativeScript -||
+subarray|Uint32Array NativeScript -|( begin: number, end?: number )|
+Pink|any NativeScript - Module||
+copyFrom|any NativeScript - Module|( source: any, target: any )|
+Infinity|number NativeScript - Module||
+createAnimation|Animation NativeScript -|( options: AnimationDefinition )|
+addedCount|number NativeScript -||
+toFixed|string NativeScript -|( fractionDigits?: number )|
+textTransform|string NativeScript -||
+ReferenceErrorConstructor|ReferenceErrorConstructor NativeScript -|( message?: string )|
+scrollX|number NativeScript -||
+addCss|void NativeScript -|( cssString: string, cssFileName: string )|
+lastIndexOf|number NativeScript -|( searchString: string, position?: number )|
+comb|"+""~"">"" " NativeScript -||
+slice|Float32Array NativeScript -|( start?: number, end?: number )|
+minWidth|number NativeScript -||
+maximumAge|number NativeScript -||
+withStyleProperty|void NativeScript - Module|( name: string, value: any, resolvedCallback: ResolvedStylePropertyHandler )|
+right|number NativeScript -||
+Static|Property NativeScript -| rowHeightProperty|
+Fuchsia|any NativeScript - Module||
+systemIcon|number NativeScript -||
+backgroundImage|string NativeScript -||
+itemWidth|number NativeScript -||
+registerNoStylingClass|any NativeScript - Module|( className: any )|
+src|string NativeScript -||
+of|Uint16Array NativeScript -|( _..items: number[] )|
+getTime|number NativeScript -|()|
+SearchBar|SearchBar NativeScript -|( json?: any )|
+orientation|string NativeScript -||
+get|any NativeScript -|()|
+disable|void NativeScript - Module|()|
+setUTCMilliseconds|number NativeScript -|( ms: number )|
+_updateLayout|void NativeScript -|()|
+on|void NativeScript -|( event: "selectedIndexChanged", callback: function, thisArg?: any )|
+Static|Property NativeScript -| autocorrectProperty|
+heightPercent|number NativeScript -||
+getAllResponseHeaders|string NativeScript -|()|
+resetValue|void NativeScript -|()|
+endEdit|void NativeScript -|()|
+DeepPink|any NativeScript - Module||
+NaN|number NativeScript - Module||
+Uint8ClampedArrayConstructor|Uint8ClampedArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+addPseudoClass|void NativeScript -|( name: string )|
+itemTemplate|stringTemplate NativeScript -||
+clearWriters|any NativeScript - Module|()|
+DateConstructor|DateConstructor NativeScript -|()|
+iterator|symbol NativeScript -||
+log|number NativeScript -|( x: number )|
+push|any NativeScript -|( request: DownloadRequest )|
+marginLeftProperty|Property NativeScript - Module||
+frame|Frame NativeScript -||
+_onTextPropertyChanged|void NativeScript -|( data: PropertyChangeData )|
+goBack|any NativeScript -|()|
+DateConstructor|DateConstructor NativeScript -|( year: number, month: number, date?: number, hours?: number, minutes?: number, seconds?: number, ms?: number )|
+getHandler|StylePropertyChangedHandler NativeScript - Module|( property: Property, view: View )|
+borderColorProperty|Property NativeScript - Module||
+reduceRight|TT NativeScript - Array<T,|( callbackfn: function, initialValue?: T )|
+source|string NativeScript -||
+headers|HeaderInit NativeScript -||
+byteOffset|number NativeScript -||
+sort|numberUint16Array NativeScript -|( compareFn?: function )|
+isLoading|boolean NativeScript -||
+Color|Color NativeScript -|( alpha: number, red: number, green: number, blue: number )|
+android|AndroidActionBarSettings NativeScript -||
+isForwards|boolean NativeScript -||
+ObservableArray|ObservableArray<T> NativeScript -|<T>( arrayLength?: number )|
+getPointerCount|number NativeScript -|()|
+reverse|string NativeScript -|()|
+test|"=""^=""$=""*=""=""~=""|=" NativeScript -||
+isFrozen|boolean NativeScript -|( o: any )|
+getItem|T NativeScript -|( index: number )|
+MediumSpringGreen|any NativeScript - Module||
+Static|Property NativeScript -| columnSpanProperty|
+on|any NativeScript -|( object: Object, name: string, data?: any )|
+remove|void NativeScript -|( key: string )|
+upload|XMLHttpRequestUpload NativeScript -||
+_childIndexToNativeChildIndex|number NativeScript -|( index?: number )|
+getJSON|PromiseT NativeScript - Module|<T>( url: string )|
+set|any NativeScript -|( object: any, src: Source )|
+getUTCFullYear|number NativeScript -|()|
+dispatchEvent|boolean NativeScript -|( evt: Event )|
+_addArrayFromBuilder|void NativeScript -|( name: string, value: Array<any> )|
+normalizePath|string NativeScript -|( path: string )|
+reverse|Int8Array NativeScript -|()|
+then|PromiseLikeU NativeScript - PromiseLike<T,|<TResult>( onfulfilled?: function, onrejected?: function )|
+Static|string NativeScript -| StartElement|
+msDetachStream|any NativeScript -|()|
+sort|numberUint8Array NativeScript -|( compareFn?: function )|
+eval|any NativeScript - Module|( x: string )|
+msClose|void NativeScript -|()|
+clear|void NativeScript - WeakMap<K,|()|
+getChildIndex|number NativeScript -|( child: View )|
+toModel|functionanyanyanyany NativeScript -||
+PaleGreen|any NativeScript - Module||
+ios|iOSLocationManager NativeScript -||
+Button|Button NativeScript -|( json?: any )|
+LimeGreen|any NativeScript - Module||
+Static|string NativeScript -| navigatedToEvent|
+heightProperty|Property NativeScript - Module||
+sqrt|number NativeScript -|( x: number )|
+keys|ArrayK NativeScript - Map<K,|()|
+lastIndexOf|number NativeScript -|( searchElement: number, fromIndex?: number )|
+Static|Property NativeScript -| orientationProperty|
+getMilliseconds|number NativeScript -|()|
+setUTCMonth|number NativeScript -|( month: number, date?: number )|
+Chocolate|any NativeScript - Module||
+Blue|any NativeScript - Module||
+catch|UPromiseU NativeScript -|<U>( onRejected?: function )|
+hex|string NativeScript -||
+ItemSpec|ItemSpec NativeScript -|( value: number, type: string )|
+_setCurrentMeasureSpecs|boolean NativeScript -|( widthMeasureSpec: number, heightMeasureSpec: number )|
+range|boolean NativeScript -||
+map|numberInt32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+OldLace|any NativeScript - Module||
+slice|Int8Array NativeScript -|( start?: number, end?: number )|
+folderExists|boolean NativeScript -|( path: string )|
+get|functionTT NativeScript -||
+fromCharCode|string NativeScript -|( _..codes: number[] )|
+cacheable|boolean NativeScript -||
+onCreateView|any NativeScript -|( fragment: any, inflater: any, container: any, savedInstanceState: any, superFunc: Function )|
+equals|boolean NativeScript -|( value1: Font, value2: Font )|
+push|number NativeScript -|( _..items: string[] )|
+removeCallback|any NativeScript - Module|( id: number )|
+readText|anystring NativeScript -|( path: string, onError?: function, encoding?: any )|
+EvalErrorConstructor|EvalErrorConstructor NativeScript -|( message?: string )|
+SelectorsMap|SelectorsMap NativeScript -|( rules: RuleSet[] )|
+Static|string NativeScript -| itemLoadingEvent|
+input|string NativeScript -||
+constructor|Function NativeScript -||
+setUTCMinutes|number NativeScript -|( min: number, sec?: number, ms?: number )|
+TextField|TextField NativeScript -|( json?: any )|
+onabort|functionEventanyEventany NativeScript -||
+Static|Property NativeScript -| htmlProperty|
+sort|numberstring NativeScript -|( compareFn?: function )|
+Static|Property NativeScript -| itemHeightProperty|
+propertyIsEnumerable|boolean NativeScript -|( v: string )|
+ControlStateChangeListener|ControlStateChangeListener NativeScript -|( control: any, callback: function )|
+DarkRed|any NativeScript - Module||
+minHeight|number NativeScript -||
+Yellow|any NativeScript - Module||
+fill|Uint8ClampedArray NativeScript -|( value: number, start?: number, end?: number )|
+removeChild|void NativeScript -|( view: View )|
+withFontWeight|Font NativeScript -|( weight: string )|
+findFileMatch|string NativeScript - Module|( path: string, ext: string, candidates: Array<string>, context: PlatformContext )|
+minDate|Date NativeScript -||
+addEventListener|anyvoid NativeScript -|( type: "loadstart", listener: function, useCapture?: boolean )|
+copyWithin|Uint8ClampedArray NativeScript -|( target: number, start: number, end?: number )|
+query|SelectorsMatchT NativeScript -|<T>( node: T )|
+fromObject|Observable NativeScript - Module|( obj: any )|
+getConnectionType|number NativeScript - Module|()|
+propertyName|string NativeScript -||
+raw|any NativeScript -||
+widthPixels|number NativeScript -||
+fontFamily|string NativeScript -||
+parse|void NativeScript -|( xml: string )|
+set|void NativeScript -|( v: any )|
+ignorePropertyHandler|any NativeScript - Module||
+LOG2E|number NativeScript -||
+oldIndex|number NativeScript -||
+value|string NativeScript -||
+isReverse|boolean NativeScript -||
+id|number NativeScript -||
+StylePropertyChangedHandler|StylePropertyChangedHandler NativeScript -|( view: View, newValue: any )|
+getBaseClasses|Arraystring NativeScript - Module|( object: any )|
+keys|string NativeScript -|( o: any )|
+Static|Property NativeScript -| updateTextTriggerProperty|
+Static|Property NativeScript -| editableProperty|
+formData|PromiseFormData NativeScript -|()|
+subarray|Float64Array NativeScript -|( begin: number, end?: number )|
+parseFloat|number NativeScript - Module|( string: string )|
+addFormattedStringToView|void NativeScript -|( view: FormattedStringView, name: string, value: any )|
+Static|Property NativeScript -| yearProperty|
+EventTarget|object__type__typeEventTarget NativeScript -||
+renameSync|anyvoid NativeScript -|( newName: string, onError?: function )|
+toString|string NativeScript -|()|
+getDay|number NativeScript -|()|
+setNumber|void NativeScript - Module|( key: string, value: number )|
+padding|string NativeScript -||
+options|number NativeScript -||
+type|ResponseType NativeScript -||
+reduceRight|string NativeScript -|<U>( callbackfn: function, initialValue: U )|
+onValueChanged|PropertyChangedCallback NativeScript -||
+SegmentedBar|SegmentedBar NativeScript -|( json?: any )|
+abs|number NativeScript -|( x: number )|
+layoutChild|void NativeScript -|( parent: View, child: View, left: number, top: number, right: number, bottom: number )|
+_getValueSource|number NativeScript -|( property: Property )|
+PaleVioletRed|any NativeScript - Module||
+MediumOrchid|any NativeScript - Module||
+addEventListener|void NativeScript -|( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean )|
+width|number NativeScript -||
+Static|NavigationTransition NativeScript -| defaultTransition|
+toString|string NativeScript - Array<T,|()|
+_checkMetadataOnPropertyChanged|any NativeScript -|( metadata: PropertyMetadata )|
+statusCode|number NativeScript -||
+stringify|anystring NativeScript -|( value: any, replacer: function )|
+onNavigatingFrom|void NativeScript -|( isBackNavigation: boolean )|
+decodeURI|string NativeScript - Module|( encodedURI: string )|
+getGestureObservers|ArrayGesturesObserver NativeScript -|( type: GestureTypes )|
+sort|numberUint32Array NativeScript -|( compareFn?: function )|
+verticalAccuracy|number NativeScript -||
+getValidIndex|number NativeScript -|( index?: number )|
+_setNativeMinuteIntervalTime|void NativeScript -|()|
+DarkGreen|any NativeScript - Module||
+FileNameResolver|FileNameResolver NativeScript -|( context: PlatformContext )|
+_emit|any NativeScript -|( eventNames: string )|
+get|T NativeScript -|()|
+on|voidvoid NativeScript -|( event: "navigatedTo", callback: function, thisArg?: any )|
+isValid|boolean NativeScript -|( value: any )|
+Background|Background NativeScript -|( color: Color, image: ImageSource, repeat: string, position: string, size: string, borderWidth: number, borderColor: Color, borderRadius: number, clipPath: string )|
+marginTop|number NativeScript -||
+PromiseConstructor|PromiseConstructor NativeScript -|( reason?: any )|
+login|PromiseLoginResult NativeScript - Module|( message: string, userName?: string, password?: string )|
+AbsoluteLayout|AbsoluteLayout NativeScript -|( json?: any )|
+_createPropertyChangeData|PropertyChangeData NativeScript -|( name: string, value: any )|
+registerHandlers|any NativeScript -|()|
+_getNavBarVisible|boolean NativeScript -|( page: Page )|
+find|booleannumber NativeScript -|( predicate: function, thisArg?: any )|
+GridLayout|GridLayout NativeScript -|( json?: any )|
+Uint32ArrayConstructor|Uint32ArrayConstructor NativeScript -|( length: number )|
+of|Int32Array NativeScript -|( _..items: number[] )|
+scale|Pair NativeScript -||
+_updateIOSTabBarColorsAndFonts|void NativeScript -|()|
+argb|number NativeScript -||
+getBindingOptions|any NativeScript - Module|( name: string, value: string )|
+dismissSoftInput|void NativeScript -|()|
+Static|Property NativeScript -| classNameProperty|
+stringify|string NativeScript -|( value: any )|
+joinPaths|string NativeScript -|( paths: string[] )|
+resolve|PromiseT NativeScript -|<T>( promise?: PromiseLike<T> )|
+addChild|void NativeScript -|( view: View )|
+getFullYear|number NativeScript -|()|
+selectors|string NativeScript -||
+from|numberFloat32Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+removeEventListener|void NativeScript -|( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean )|
+Property|Property NativeScript -|( value: string )|
+map|numberInt16Array NativeScript -|( callbackfn: function, thisArg?: any )|
+actualLength|number NativeScript -||
+isNumber|boolean NativeScript - Module|( value: any )|
+ios|IOSActionItemSettings NativeScript -||
+LightSlateGray|any NativeScript - Module||
+widthProperty|Property NativeScript - Module||
+deleteFile|anyany NativeScript -|( path: string, onError?: function )|
+getTempFolderPath|string NativeScript -|()|
+isClass|boolean NativeScript - Module|( sel: SimpleSelector )|
+Navy|any NativeScript - Module||
+_removeView|any NativeScript -|( view: View )|
+_setNavBarColor|any NativeScript - Module|( navBar: any, color: any )|
+ok|boolean NativeScript -||
+getKnownColor|string NativeScript - Module|( name: string )|
+getAll|Arraystring NativeScript -|( name: string )|
+Log|void NativeScript - Module|( data: any )|
+count|number NativeScript -||
+bottom|number NativeScript -||
+error|Response NativeScript -|()|
+x1|number NativeScript -||
+addCallback|voidnumber NativeScript - Module|( callback: function )|
+error|string NativeScript -||
+addEventListener|any NativeScript -|( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean )|
+toFile|functionstringFilestringFile NativeScript -||
+isStarted|boolean NativeScript -||
+subarray|Uint16Array NativeScript -|( begin: number, end?: number )|
+getFocusY|number NativeScript -|()|
+onStop|void NativeScript -|( activity: any, superFunc: Function )|
+setRow|void NativeScript -|( view: View, value: number )|
+on|voidany NativeScript -|( event: "close", callback: function, thisArg?: any )|
+getOwnPropertyDescriptor|PropertyDescriptor NativeScript -|( o: any, p: string )|
+Uint8ArrayConstructor|Uint8ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+LightSkyBlue|any NativeScript - Module||
+backgroundPosition|string NativeScript -||
+add|SetT NativeScript -|( value: T )|
+onMeasure|void NativeScript -|( widthMeasureSpec: number, heightMeasureSpec: number )|
+sort|numberUint8ClampedArray NativeScript -|( compareFn?: function )|
+reverse|T NativeScript -|()|
+withFontStyle|Font NativeScript -|( style: string )|
+spanModifiers|Arrayany NativeScript -||
+stylesheet|StyleSheet NativeScript -||
+search|number NativeScript -|( regexp: string )|
+y1|number NativeScript -||
+getEntities|PromiseArrayFileSystemEntity NativeScript -|()|
+rotateProperty|Property NativeScript - Module||
+parse|anyany NativeScript -|( text: string, reviver?: function )|
+localeCompare|number NativeScript -|( that: string )|
+heightPixels|number NativeScript -||
+widthDIPs|number NativeScript -||
+running|boolean NativeScript -||
+keyframes|ArrayKeyframeInfo NativeScript -||
+PropertyMetadata|PropertyMetadata NativeScript -|( defaultValue: any, options?: number, onChanged?: PropertyChangedCallback, onValidateValue?: PropertyValidationCallback, equalityComparer?: PropertyEqualityComparer )|
+getActualSize|Size NativeScript -|()|
+newValue|any NativeScript -||
+race|PromiseT NativeScript -|<T>( promises: Promise<T>[] )|
+has|boolean NativeScript -|( name: string )|
+DarkMagenta|any NativeScript - Module||
+navigate|Page NativeScript -|( entry: NavigationEntry )|
+scrollToHorizontalOffset|any NativeScript -|( value: number, animated: boolean )|
+backgroundSizeProperty|Property NativeScript - Module||
+Static|Property NativeScript -| autocapitalizationTypeProperty|
+b|number NativeScript -||
+slice|T NativeScript -|( start?: number, end?: number )|
+XmlParser|XmlParser NativeScript -|( onEvent: function, onError?: function, processNamespaces?: boolean, angularSyntax?: boolean )|
+prototype|URIError NativeScript -||
+Gray|any NativeScript - Module||
+Ivory|any NativeScript - Module||
+title|string NativeScript -||
+Float64ArrayConstructor|Float64ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+showActionBar|boolean NativeScript -||
+slice|Uint32Array NativeScript -|( start?: number, end?: number )|
+isFileOrResourcePath|boolean NativeScript - Module|( path: string )|
+prototype|Date NativeScript -||
+LOADING|number NativeScript -||
+backpublic|string NativeScript -||
+on|void NativeScript -|( name: string, cb: Function )|
+setColumn|void NativeScript -|( view: View, value: number )|
+loadFromBase64|boolean NativeScript -|( source: string )|
+androidOnTouchEvent|functionanyvoidanyvoid NativeScript -||
+from|numberInt8Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+send|void NativeScript -|( data?: FormData )|
+getViewById|T NativeScript -|<T>( id: string )|
+toUIString|string NativeScript - Module|( object: any )|
+Experimental|void NativeScript - Module|( target: Object, key?: string | symbol, value?: any )|
+hour|number NativeScript -||
+filter|booleanFloat64Array NativeScript -|( callbackfn: function, thisArg?: any )|
+clear|void NativeScript - Module|()|
+Static|Background NativeScript -| default|
+clearCache|void NativeScript - Module|()|
+fontStyle|string NativeScript -||
+map|numberUint16Array NativeScript -|( callbackfn: function, thisArg?: any )|
+timeStamp|number NativeScript -||
+insertChild|void NativeScript -|( child: View, atIndex: number )|
+setUTCSeconds|number NativeScript -|( sec: number, ms?: number )|
+Int32ArrayConstructor|Int32ArrayConstructor NativeScript -|( length: number )|
+paddingTopProperty|Property NativeScript - Module||
+every|booleanboolean NativeScript - Array<T,|( callbackfn: function, thisArg?: any )|
+getColumn|number NativeScript -|( view: View )|
+MediumPurple|any NativeScript - Module||
+on|voidany NativeScript -|( eventNames: string, callback: function, thisArg?: any )|
+DarkOrchid|any NativeScript - Module||
+DependencyObservable|DependencyObservable NativeScript -|( json?: any )|
+_unregisterLayoutChild|void NativeScript -|( child: View )|
+fileExists|boolean NativeScript -|( path: string )|
+_unregisterAllAnimations|any NativeScript -|()|
+cachePagesOnNavigate|boolean NativeScript -||
+StylePropertyChangedHandler|StylePropertyChangedHandler NativeScript -|( applyCallback: function, resetCallback: function, getNativeValue?: function )|
+lastKnownLocation|Location NativeScript -||
+Switch|Switch NativeScript -|( json?: any )|
+onload|functionEventanyEventany NativeScript -||
+rotate|number NativeScript -||
+_isEmpty|boolean NativeScript -|()|
+_onFragmentShown|void NativeScript - Module|( fragment: any, isBack: boolean )|
+sourceProperty|string NativeScript -||
+ObservableArray|ObservableArray<T> NativeScript -|<T>( items: T[] )|
+iterations|number NativeScript -||
+isNavigation|boolean NativeScript -||
+ListView|ListView NativeScript -|( json?: any )|
+imageSource|ImageSource NativeScript -||
+on|void NativeScript -|( event: "tap", callback: function, thisArg?: any )|
+getExpression|Expression NativeScript -|( expression: string )|
+value|V NativeScript - KeyValuePair<K,||
+Property|Property NativeScript -|( value: any )|
+toPrecision|string NativeScript -|( precision?: number )|
+getImage|PromiseImageSource NativeScript - Module|( url: string )|
+Static|Property NativeScript -| minValueProperty|
+textFieldHintColor|Color NativeScript -||
+sort|numberFloat64Array NativeScript -|( compareFn?: function )|
+rotation|number NativeScript -||
+x|number NativeScript -||
+overrideMimeType|void NativeScript -|( mime: string )|
+manager|any NativeScript -||
+reduceRight|T NativeScript -|<U>( callbackfn: function, initialValue: U )|
+setBoolean|void NativeScript - Module|( key: string, value: boolean )|
+deltaY|number NativeScript -||
+EditableTextBase|EditableTextBase NativeScript -|( json?: any )|
+Static|Property NativeScript -| actionBarHiddenProperty|
+addCss|void NativeScript -|( cssString: string )|
+filter|booleanFloat32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+getPathSeparator|string NativeScript -|()|
+reverse|Uint8ClampedArray NativeScript -|()|
+Uint8ClampedArrayConstructor|Uint8ClampedArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+AntiqueWhite|any NativeScript - Module||
+_setCore|any NativeScript -|( data: PropertyChangeData )|
+_addToSuperview|boolean NativeScript -|( superview: any, index?: number )|
+getHours|number NativeScript -|()|
+property|string NativeScript -||
+fontFamilyProperty|Property NativeScript - Module||
+getRows|ArrayItemSpec NativeScript -|()|
+disconnect|any NativeScript -|()|
+beginEdit|void NativeScript -|()|
+result|any NativeScript -||
+Static|Property NativeScript -| idProperty|
+write|any NativeScript -|( message: any, category: string, type?: number )|
+fail|void NativeScript - Module|( data: any )|
+prototype|Uint8Array NativeScript -||
+cornerRadius|number NativeScript -||
+getItems|ArrayActionItem NativeScript -|()|
+minWidthProperty|Property NativeScript - Module||
+fromPath|File NativeScript -|( path: string )|
+withPosition|Background NativeScript -|( value: string )|
+on|voidany NativeScript -|( event: "itemTap", callback: function, thisArg?: any )|
+marginBottomProperty|Property NativeScript - Module||
+slice|Uint8ClampedArray NativeScript -|( start?: number, end?: number )|
+TypeErrorConstructor|TypeErrorConstructor NativeScript -|( message?: string )|
+_processNavigationQueue|any NativeScript -|( page: Page )|
+on|void NativeScript -|( event: "itemLoading", callback: function, thisArg?: any )|
+Static|string NativeScript -| loadStartedEvent|
+Static|string NativeScript -| navigationTypes|
+backgroundRepeatProperty|Property NativeScript - Module||
+addEventListener|anyvoid NativeScript -|( type: "abort", listener: function, useCapture?: boolean )|
+type|"rule""keyframes""declaration" NativeScript -||
+Static|string NativeScript -| clearEvent|
+some|booleanboolean NativeScript - Array<T,|( callbackfn: function, thisArg?: any )|
+toView|functionanyanyanyany NativeScript -||
+fill|Float32Array NativeScript -|( value: number, start?: number, end?: number )|
+ceil|number NativeScript -|( x: number )|
+topmost|Frame NativeScript - Module|()|
+filter|booleanU NativeScript -|<U>( pred: function )|
+Repeater|Repeater NativeScript -|( json?: any )|
+ScrollView|ScrollView NativeScript -|( json?: any )|
+getLogicalRootPath|string NativeScript -|()|
+getChildAt|View NativeScript -|( index: number )|
+SteelBlue|any NativeScript - Module||
+responseType|string NativeScript -||
+nativeLayoutParamsProperty|Property NativeScript - Module||
+concat|T NativeScript - Array<T,|<U>( _..items: U[] )|
+context|RequestContext NativeScript -||
+fragmentForPage|any NativeScript -|( page: Page )|
+lastIndexOf|number NativeScript -|( searchElement: string, fromIndex?: number )|
+fill|Int32Array NativeScript -|( value: number, start?: number, end?: number )|
+copyWithin|Int32Array NativeScript -|( target: number, start: number, end?: number )|
+reduceRight|TT NativeScript -|( callbackfn: function, initialValue?: T )|
+OrangeRed|any NativeScript - Module||
+Static|Property NativeScript -| columnProperty|
+cssClass|string NativeScript -||
+layerType|number NativeScript -||
+_addViewToNativeVisualTree|boolean NativeScript -|( view: View, atIndex?: number )|
+then|PromiseLikeUPromiseLikeUPromiseLikeU NativeScript - PromiseLike<T,|<U>( onFulfilled?: function, onRejected?: function )|
+onActivityResult|any NativeScript -|( activity: any, requestCode: number, resultCode: number, data: any, superFunc: Function )|
+slice|Float64Array NativeScript -|( start?: number, end?: number )|
+getSpecialPropertySetter|PropertySetter NativeScript - Module|( name: string )|
+attachComment|boolean NativeScript -||
+map|UU NativeScript -|<U>( callbackfn: function, thisArg?: any )|
+onNavigatedFrom|void NativeScript -|( isBackNavigation: boolean )|
+parent|Node NativeScript -||
+Static|string NativeScript -| Comment|
+get|string NativeScript -|( name: string )|
+SlideTransition|SlideTransition NativeScript -|( direction: string, duration: number, nativeCurve: any )|
+Static|Property NativeScript -| selectedBackgroundColorProperty|
+_registerLayoutChild|void NativeScript -|( child: View )|
+onreadystatechange|functionProgressEventanyProgressEventany NativeScript -||
+wrapped|any NativeScript -||
+isId|boolean NativeScript - Module|( sel: SimpleSelector )|
+maxMinute|number NativeScript -||
+isString|boolean NativeScript - Module|( value: any )|
+setTime|number NativeScript -|( time: number )|
+Transition|Transition NativeScript -|( duration: number, nativeCurve: any )|
+isLoaded|boolean NativeScript -||
+localValue|any NativeScript -||
+Static|boolean NativeScript -| defaultAnimatedNavigation|
+backStack|ArrayBackstackEntry NativeScript -||
+setUint32|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+actionBarHidden|boolean NativeScript -||
+DarkGoldenRod|any NativeScript - Module||
+HtmlView|HtmlView NativeScript -|( json?: any )|
+BUBBLING_PHASE|number NativeScript -||
+Int8ArrayConstructor|Int8ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+_downloadCore|any NativeScript -|( request: DownloadRequest )|
+stringify|anystring NativeScript -|( value: any, replacer: any[], space: string | number )|
+createSelectorsFromCss|RuleSet NativeScript -|( css: string, cssFileName: string, keyframes: Object )|
+indexOf|number NativeScript - Array<T,|( searchElement: T, fromIndex?: number )|
+registerSpecialProperty|void NativeScript - Module|( name: string, setter: PropertySetter )|
+set|void NativeScript -|( key: string, image: any )|
+Uint8ArrayConstructor|Uint8ArrayConstructor NativeScript -|( length: number )|
+clearInterval|void NativeScript - Module|( id: number )|
+createAndroidAnimator|any NativeScript -|( transitionType: string )|
+convertString|any NativeScript - Module|( value: any )|
+compile|RegExp NativeScript -|()|
+ruleset|RuleSet NativeScript -||
+Static|Property NativeScript -| dateProperty|
+getDuration|number NativeScript -|()|
+tolerant|boolean NativeScript -||
+throw|IteratorResultT NativeScript -|( e?: any )|
+stopMonitoring|void NativeScript - Module|()|
+_applyXmlAttribute|boolean NativeScript -|( attributeName: string, attrValue: any )|
+send|void NativeScript -|( data?: any )|
+_onDetached|void NativeScript -|( force?: boolean )|
+splice|T NativeScript - Array<T,|( start: number, deleteCount: number, _..items: T[] )|
+buffer|ArrayBuffer NativeScript -||
+toJSON|functionanyany NativeScript -||
+getUTCMonth|number NativeScript -|()|
+global|any NativeScript - Module||
+defaultText|string NativeScript -||
+ArrayConstructor|ArrayConstructor NativeScript -|( arrayLength: number )|
+toString|string NativeScript - Module|( type: GestureTypes, separator?: string )|
+TabViewItem|TabViewItem NativeScript -|( json?: any )|
+splice|string NativeScript -|( start: number, deleteCount: number, _..items: string[] )|
+BlanchedAlmond|any NativeScript - Module||
+parse|Font NativeScript -|( cssValue: string )|
+ContentView|ContentView NativeScript -|( json?: any )|
+running|boolean NativeScript - Module|()|
+load|View NativeScript - Module|( options: LoadOptions )|
+removeColumn|void NativeScript -|( itemSpec: ItemSpec )|
+writeText|Promiseany NativeScript -|( content: string, encoding?: string )|
+_isInheritedChange|boolean NativeScript -|()|
+on|voidvoid NativeScript -|( event: "shownModally", callback: function, thisArg?: any )|
+Float32ArrayConstructor|Float32ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+clipPath|string NativeScript -||
+Static|string NativeScript -| navigatedFromEvent|
+borderRadiusProperty|Property NativeScript - Module||
+isUndefined|boolean NativeScript - Module|( value: any )|
+Salmon|any NativeScript - Module||
+stop|void NativeScript - Module|()|
+fromObjectRecursive|Observable NativeScript - Module|( obj: any )|
+setFullYear|number NativeScript -|( year: number, month?: number, date?: number )|
+selectedIndex|number NativeScript -||
+itemHeight|number NativeScript -||
+deleteFolder|anyany NativeScript -|( path: string, onError?: function )|
+isDataURI|boolean NativeScript - Module|( uri: string )|
+affectsLayout|boolean NativeScript -||
+Gold|any NativeScript - Module||
+Float64ArrayConstructor|Float64ArrayConstructor NativeScript -|( length: number )|
+headers|HeaderInitobject NativeScript -||
+Font|Font NativeScript -|( family: string, size: number, style: string, weight: string )|
+declarations|ArrayKeyframeDeclaration NativeScript -||
+on|void NativeScript -|( event: "loaded", callback: function, thisArg?: any )|
+android|number NativeScript -||
+ProxyViewContainer|ProxyViewContainer NativeScript -|( json?: any )|
+refresh|any NativeScript -|()|
+selectedBackgroundColor|Color NativeScript -||
+uri|string NativeScript -||
+cos|number NativeScript -|( x: number )|
+Moccasin|any NativeScript - Module||
+fromResource|ImageSource NativeScript - Module|( name: string )|
+Cornsilk|any NativeScript - Module||
+Static|Property NativeScript -| itemsLayoutProperty|
+paddingLeftProperty|Property NativeScript - Module||
+then|PromiseLikeUvoidPromiseLikeU NativeScript - PromiseLike<T,|<TResult>( onfulfilled?: function, onrejected?: function )|
+setUint16|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+_updateCharactersInRangeReplacementString|void NativeScript -|( rangeLocation: number, rangeLength: number, replacementString: string )|
+selectedColor|Color NativeScript -||
+getMonth|number NativeScript -|()|
+slice|Uint16Array NativeScript -|( start?: number, end?: number )|
+Static|string NativeScript -| androidOptionSelectedEvent|
+_getCurrentLayoutBounds|object NativeScript -|()|
+then|PromiseLikeU NativeScript - PromiseLike<T,|<U>( onFulfilled?: function, onRejected?: function )|
+play|functionViewPromisevoidViewPromisevoid NativeScript -||
+HoneyDew|any NativeScript - Module||
+isScrolling|boolean NativeScript -||
+round|number NativeScript -|( x: number )|
+_removeViewFromNativeVisualTree|void NativeScript -|( view: View )|
+action|string NativeScript -||
+setActivityCallbacks|void NativeScript - Module|( activity: any )|
+Animation|Animation NativeScript -|( animationDefinitions: Array<AnimationDefinition>, playSequentially?: boolean )|
+replace|string NativeScript -|( searchValue: RegExp, replaceValue: string )|
+writable|boolean NativeScript -||
+userName|string NativeScript -||
+cancelButtonText|string NativeScript -||
+_domId|number NativeScript -||
+borderWidth|number NativeScript -||
+_updateTextTransform|void NativeScript -|()|
+onCreate|void NativeScript -|( activity: any, savedInstanceState: any, superFunc: Function )|
+forEach|voidvoid NativeScript -|( callbackfn: function, thisArg?: any )|
+prompt|PromisePromptResult NativeScript - Module|( message: string, defaultText?: string )|
+parse|SimpleSelector NativeScript - Module|( selector: string )|
+_getAndroidTabView|any NativeScript -|()|
+insertTab|void NativeScript -|( tabItem: SegmentedBarItem, index?: number )|
+addEventListener|anyvoid NativeScript -|( type: "readystatechange", listener: function, useCapture?: boolean )|
+equals|boolean NativeScript -|( value1: Color, value2: Color )|
+setInterval|number NativeScript - Module|( callback: Function, milliseconds?: number )|
+curve|any NativeScript -||
+month|number NativeScript -||
+affectsStyle|boolean NativeScript -||
+desiredAccuracy|number NativeScript -||
+Static|Property NativeScript -| formattedTextProperty|
+on|voidany NativeScript -|( eventNames: string, callback: function )|
+getFile|PromiseFile NativeScript - Module|( url: string, destinationFilePath?: string )|
+widthPercent|number NativeScript -||
+Static|string NativeScript -| shownModallyEvent|
+value|number NativeScript -||
+lastModified|Date NativeScript -||
+off|any NativeScript -|( eventNames: string, callback?: any, thisArg?: any )|
+trim|string NativeScript -|()|
+DatePicker|DatePicker NativeScript -|()|
+eachLayoutChild|voidvoid NativeScript -|( callback: function )|
+target|EventTarget NativeScript -||
+equals|boolean NativeScript -|( value1: Background, value2: Background )|
+toStringOverride|string NativeScript -|( fragment: any, superFunc: Function )|
+_updateTwoWayBinding|any NativeScript -|( propertyName: string, value: any )|
+MediumSlateBlue|any NativeScript - Module||
+createDump|string NativeScript -|( obj: any )|
+selectors|SelectorCore NativeScript -||
+uuid|string NativeScript -||
+_setCurrentLayoutBounds|void NativeScript -|( left: number, top: number, right: number, bottom: number )|
+actions|Arraystring NativeScript -||
+join|string NativeScript -|( separator?: string )|
+PaleTurquoise|any NativeScript - Module||
+reduceRight|number NativeScript -|<U>( callbackfn: function, initialValue: U )|
+ObservableArray|ObservableArray<T> NativeScript -|<T>( _..items: T[] )|
+_fragmentTag|string NativeScript -||
+Static|Property NativeScript -| returnKeyTypeProperty|
+isLocked|boolean NativeScript -||
+controller|any NativeScript -||
+LightBlue|any NativeScript - Module||
+Cyan|any NativeScript - Module||
+join|string NativeScript - Array<T,|( separator?: string )|
+on|void NativeScript -|( event: "navigatingFrom", callback: function, thisArg?: any )|
+rightMargin|number NativeScript -||
+getFolder|anyobject NativeScript -|( path: string, onError?: function )|
+setRowSpan|void NativeScript -|( view: View, value: number )|
+text|string NativeScript -||
+Azure|any NativeScript - Module||
+Static|Property NativeScript -| cssClassProperty|
+cssValue|any NativeScript -||
+ItemSpec|ItemSpec NativeScript -|( value: number, type: "auto" )|
+addEventListener|any NativeScript -|( type: "progress", listener: function, useCapture?: boolean )|
+sort|numberFloat32Array NativeScript -|( compareFn?: function )|
+nativePaddingsProperty|Property NativeScript - Module||
+prefix|string NativeScript -||
+readTextSync|anystring NativeScript -|( onError?: function, encoding?: string )|
+Static|Property NativeScript -| iconProperty|
+GesturesObserver|GesturesObserver NativeScript -|( args: GestureEventData )|
+textDecorationProperty|Property NativeScript - Module||
+prototype|Float32Array NativeScript -||
+then|PromiseLikeUUPromiseLikeU NativeScript - PromiseLike<T,|<U>( onFulfilled?: function, onRejected?: function )|
+Static|Property NativeScript -| dockProperty|
+BooleanConstructor|BooleanConstructor NativeScript -|( value?: any )|
+encodeURIComponent|string NativeScript - Module|( uriComponent: string )|
+Static|string NativeScript -| scrollEvent|
+GoldenRod|any NativeScript - Module||
+Static|string NativeScript -| Add|
+Tomato|any NativeScript - Module||
+html|string NativeScript -||
+okButtonText|string NativeScript -||
+_unregisterAnimation|any NativeScript -|( animation: KeyframeAnimation )|
+toUTCString|string NativeScript -|()|
+prototype|EvalError NativeScript -||
+ListPicker|ListPicker NativeScript -|()|
+catch|PromiseLikeUPromiseU NativeScript -|<U>( onRejected?: function )|
+_nativeView|any NativeScript -||
+pos|number NativeScript -||
+android|AndroidLocationManager NativeScript -||
+Deprecated|void NativeScript - Module|( target: Object, key?: string | symbol, value?: any )|
+splice|T NativeScript - Array<T,|( start: number )|
+Sienna|any NativeScript - Module||
+MIN_VALUE|number NativeScript -||
+reverse|Float32Array NativeScript -|()|
+content|HttpContent NativeScript -||
+handleEvent|void NativeScript -|( evt: Event )|
+Purple|any NativeScript - Module||
+on|void NativeScript -|( event: "propertyChange", callback: function, thisArg?: any )|
+set|void NativeScript -|( array: ArrayLike<number>, offset?: number )|
+color|Color NativeScript -||
+isLayoutValid|boolean NativeScript -||
+Lime|any NativeScript - Module||
+withBorderColor|Background NativeScript -|( value: Color )|
+_inheritProperties|any NativeScript -|( parentView: View )|
+attributes|Setstring NativeScript -||
+SQRT2|number NativeScript -||
+MAX_VALUE|number NativeScript -||
+entry|NavigationEntry NativeScript -||
+keepAspectRatio|boolean NativeScript -||
+filter|booleanInt8Array NativeScript -|( callbackfn: function, thisArg?: any )|
+onHiddenChanged|void NativeScript -|( fragment: any, hidden: boolean, superFunc: Function )|
+DarkSlateGray|any NativeScript - Module||
+setHours|number NativeScript -|( hours: number, min?: number, sec?: number, ms?: number )|
+MidnightBlue|any NativeScript - Module||
+preventDefault|void NativeScript -|()|
+valueConverter|functionanyanyanyany NativeScript -||
+bottomMarginPercent|number NativeScript -||
+_gestureObservers|any NativeScript -||
+inheritedValue|any NativeScript -||
+_setFormattedTextPropertyToNative|void NativeScript -|( value: any )|
+fromBase64|ImageSource NativeScript - Module|( source: string )|
+Static|Property NativeScript -| leftProperty|
+transitionAndroid|NavigationTransition NativeScript -||
+fill|Uint32Array NativeScript -|( value: number, start?: number, end?: number )|
+copyWithin|Uint32Array NativeScript -|( target: number, start: number, end?: number )|
+toDateString|string NativeScript -|()|
+readText|Promisestring NativeScript -|( encoding?: string )|
+mergeSort|numberArrayany NativeScript - Module|( arr: Array<any>, compareFunc: function )|
+paddingBottomProperty|Property NativeScript - Module||
+shift|T NativeScript - Array<T,|()|
+isObject|boolean NativeScript - Module|( value: any )|
+getMinutes|number NativeScript -|()|
+prototype|ArrayBuffer NativeScript -||
+visibilityProperty|Property NativeScript - Module||
+removeWeakEventListener|voidvoid NativeScript - Module|( source: Observable, eventName: string, handler: function, target: any )|
+isPrototypeOf|boolean NativeScript -|( v: Object )|
+onValidateValue|PropertyValidationCallback NativeScript -||
+LightGoldenRodYellow|any NativeScript - Module||
+replace|stringstring NativeScript -|( searchValue: string, replacer: function )|
+slice|Int32Array NativeScript -|( start?: number, end?: number )|
+version|string NativeScript - Module||
+search|number NativeScript -|( regexp: RegExp )|
+DarkSeaGreen|any NativeScript - Module||
+layoutNativeView|void NativeScript -|( left: number, top: number, right: number, bottom: number )|
+readyState|number NativeScript -||
+scrollableWidth|number NativeScript -||
+TextView|TextView NativeScript -|( json?: any )|
+prototype|Int8Array NativeScript -||
+StylePropertyChangedHandler|StylePropertyChangedHandler NativeScript -|( view: View )|
+isItalic|boolean NativeScript -||
+_onCssStateChange|any NativeScript -|( previous: any, any: any )|
+sort|numberInt8Array NativeScript -|( compareFn?: function )|
+RoyalBlue|any NativeScript - Module||
+cancelBubble|boolean NativeScript -||
+LightSalmon|any NativeScript - Module||
+every|booleanboolean NativeScript -|( callbackfn: function, thisArg?: any )|
+splice|string NativeScript -|( start: number )|
+_onDownloadCompleted|any NativeScript -|( key: string, image: any )|
+Static|string NativeScript -| showingModallyEvent|
+measure|void NativeScript -|( widthMeasureSpec: number, heightMeasureSpec: number )|
+toExponential|string NativeScript -|( fractionDigits?: number )|
+newIndex|number NativeScript -||
+has|boolean NativeScript -|( value: T )|
+isAbsolute|boolean NativeScript -||
+catch|PromiseLikevoidAnimationPromise NativeScript -|( onRejected?: function )|
+getUTCDay|number NativeScript -|()|
+Float32ArrayConstructor|Float32ArrayConstructor NativeScript -|( length: number )|
+src|any NativeScript -||
+visibility|string NativeScript -||
+getImage|PromiseImageSource NativeScript - Module|( options: HttpRequestOptions )|
+Static|Property NativeScript -| textFieldBackgroundColorProperty|
+getLastModified|Date NativeScript -|( path: string )|
+orientationProperty|Property NativeScript - Module||
+_createIOSAnimatedTransitioning|any NativeScript - Module|( navigationTransition: NavigationTransition, nativeCurve: any, operation: number, fromVC: any, toVC: any )|
+on|void NativeScript -|( event: "navigatingTo", callback: function, thisArg?: any )|
+_setNativeViewFrame|void NativeScript -|( nativeView: any, frame: any )|
+getItemAt|ActionItem NativeScript -|( index: number )|
+get|V NativeScript - WeakMap<K,|( key: K )|
+a|number NativeScript -||
+NavajoWhite|any NativeScript - Module||
+onNavigatingTo|void NativeScript -|( context: any, isBackNavigation: boolean, bindingContext?: any )|
+onRequestPermissionsResult|void NativeScript -|( activity: any, requestCode: number, permissions: Array<String>, grantResults: Array<number>, superFunc: Function )|
+CAPTURING_PHASE|number NativeScript -||
+prototype|any NativeScript -||
+on|void NativeScript -|( event: "tap", callback: function )|
+ident|string NativeScript -||
+declarations|Node NativeScript -||
+FPSCallback|FPSCallback NativeScript -|( onFrame: function )|
+setFragmentClass|void NativeScript - Module|( clazz: any )|
+Silver|any NativeScript - Module||
+isEnabled|boolean NativeScript -||
+date|Date NativeScript -||
+CornflowerBlue|any NativeScript - Module||
+content|View NativeScript -||
+prototype|Symbol NativeScript -||
+isUserInteractionEnabled|boolean NativeScript -||
+duration|number NativeScript -||
+reduce|T NativeScript - Array<T,|<U>( callbackfn: function, initialValue: U )|
+charAt|string NativeScript -|( pos: number )|
+withSize|Background NativeScript -|( value: string )|
+Static|Property NativeScript -| dayProperty|
+sin|number NativeScript -|( x: number )|
+update|any NativeScript -|()|
+isTrusted|boolean NativeScript -||
+fontStyleProperty|Property NativeScript - Module||
+indexOf|number NativeScript -|( searchElement: number, fromIndex?: number )|
+delete|boolean NativeScript - WeakMap<K,|( key: K )|
+BurlyWood|any NativeScript - Module||
+isFinite|boolean NativeScript - Module|( number: number )|
+itemsLayout|LayoutBase NativeScript -||
+SlateBlue|any NativeScript - Module||
+reloadPage|void NativeScript - Module|()|
+getPropertyByName|Property NativeScript - Module|( name: string )|
+filter|booleanInt16Array NativeScript -|( callbackfn: function, thisArg?: any )|
+Static|string NativeScript -| tapEvent|
+timestamp|Date NativeScript -||
+eventType|string NativeScript -||
+type|string NativeScript -||
+set|void NativeScript -|( name: string, value: any )|
+layout|void NativeScript -|( left: number, top: number, right: number, bottom: number )|
+_parentChanged|void NativeScript -|( oldParent: View )|
+resolveFileName|string NativeScript -|( path: string, ext: string )|
+getPrototypeOf|any NativeScript -|( o: any )|
+checked|boolean NativeScript -||
+msCaching|string NativeScript -||
+android|any NativeScript -||
+PeachPuff|any NativeScript - Module||
+request|functionHttpRequestOptionsPromiseHttpResponseHttpRequestOptionsPromiseHttpResponse NativeScript - Module||
+test|boolean NativeScript -|( string: string )|
+alert|Promisevoid NativeScript - Module|( message: string )|
+Static|Property NativeScript -| isEnabledProperty|
+prototype|SyntaxError NativeScript -||
+lazy|TfunctionT NativeScript - Module|<T>( action: function )|
+play|functionAnimationPromiseAnimationPromise NativeScript -||
+fromFile|Promiseboolean NativeScript -|( path: string )|
+on|void NativeScript -|( event: "creatingView", callback: function )|
+time|Date NativeScript -||
+MediumAquaMarine|any NativeScript - Module||
+prototype|Boolean NativeScript -||
+apply|any NativeScript -|( thisArg: any, argArray?: any )|
+_resetCssValues|void NativeScript -|()|
+line|number NativeScript -||
+LightCoral|any NativeScript - Module||
+Static|string NativeScript -| CDATA|
+getString|Promisestring NativeScript - Module|( options: HttpRequestOptions )|
+applySelectors|void NativeScript -|( view: View )|
+getRow|number NativeScript -|( view: View )|
+CadetBlue|any NativeScript - Module||
+Static|Property NativeScript -| automationTextProperty|
+_resolveAnimationCurve|any NativeScript - Module|( curve: any )|
+some|booleanboolean NativeScript -|( callbackfn: function, thisArg?: any )|
+done|boolean NativeScript -||
+action|Promisestring NativeScript - Module|( message: string, cancelButtonText: string, actions: Array<string> )|
+image|ImageSource NativeScript -||
+start|void NativeScript -|()|
+fromAstNodes|RuleSet NativeScript - Module|( astRules: Node[] )|
+Static|Property NativeScript -| keyboardTypeProperty|
+Static|Property NativeScript -| itemsProperty|
+set|WeakMapKV NativeScript - WeakMap<K,|( key: K, value: V )|
+_setNativeMaxTime|void NativeScript -|()|
+page|Page NativeScript -||
+textWrap|boolean NativeScript -||
+scaleXProperty|Property NativeScript - Module||
+of|Int16Array NativeScript -|( _..items: number[] )|
+AliceBlue|any NativeScript - Module||
+PaleGoldenRod|any NativeScript - Module||
+eventPhase|number NativeScript -||
+ios|iOSFrame NativeScript -||
+cancel|void NativeScript -|()|
+setInt32|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+subarray|Uint8Array NativeScript -|( begin: number, end?: number )|
+Aquamarine|any NativeScript - Module||
+DarkBlue|any NativeScript - Module||
+fill|Float64Array NativeScript -|( value: number, start?: number, end?: number )|
+Static|Property NativeScript -| checkedProperty|
+copyWithin|Float64Array NativeScript -|( target: number, start: number, end?: number )|
+ObjectConstructor|ObjectConstructor NativeScript -|( value?: any )|
+abort|void NativeScript -|()|
+_registerAnimation|any NativeScript -|( animation: KeyframeAnimation )|
+deviceType|string NativeScript -||
+remove|void NativeScript - Module|( key: string )|
+ForestGreen|any NativeScript - Module||
+DataViewConstructor|DataViewConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, byteLength?: number )|
+BlueViolet|any NativeScript - Module||
+pop|T NativeScript -|()|
+isUniversal|boolean NativeScript - Module|( sel: SimpleSelector )|
+value|any NativeScript -||
+ItemSpec|ItemSpec NativeScript -|()|
+inputType|string NativeScript -||
+_onStylePropertyChanged|void NativeScript -|( property: Property )|
+Uint16ArrayConstructor|Uint16ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+Static|Property NativeScript -| timeProperty|
+owner|any NativeScript -||
+opacityProperty|Property NativeScript - Module||
+autocorrect|boolean NativeScript -||
+showModal|Page NativeScript -|()|
+getLocationOnScreen|Point NativeScript -|()|
+loadFromFile|boolean NativeScript -|( path: string )|
+length|number NativeScript -||
+Static|string NativeScript -| Splice|
+URIErrorConstructor|URIErrorConstructor NativeScript -|( message?: string )|
+StringConstructor|StringConstructor NativeScript -|( value?: any )|
+colno|number NativeScript -||
+PropertyMetadata|PropertyMetadata NativeScript -|( defaultValue: any, options?: number, onChanged?: PropertyChangedCallback, onValidateValue?: PropertyValidationCallback, onSetNativeValue?: PropertyChangedCallback )|
+OliveDrab|any NativeScript - Module||
+margin|string NativeScript -||
+POSITIVE_INFINITY|number NativeScript -||
+clear|Promiseany NativeScript -|()|
+region|string NativeScript -||
+FireBrick|any NativeScript - Module||
+match|boolean NativeScript -|( node: Node )|
+then|PromiseLikevoidPromiseLikevoidAnimationPromise NativeScript -|( onFulfilled?: function, onRejected?: function )|
+maxHour|number NativeScript -||
+then|U NativeScript -|<U>( onFulfilled?: function, onRejected?: function )|
+on|voidany NativeScript -|( event: "change", callback: function, thisArg?: any )|
+XmlParser|XmlParser NativeScript -|( event: ParserEvent )|
+defaultPrevented|boolean NativeScript -||
+MintCream|any NativeScript - Module||
+returnKeyType|string NativeScript -||
+loaded|number NativeScript -||
+stopPropagation|void NativeScript -|()|
+map|numberFloat32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+Color|Color NativeScript -|( hex: string )|
+data|string NativeScript -||
+global|boolean NativeScript -||
+Static|string NativeScript -| itemsLoadingEvent|
+getAncestor|View NativeScript - Module|( view: View, criterion: string | Function )|
+type|"_" NativeScript -||
+getString|Promisestring NativeScript - Module|( url: string )|
+DarkGray|any NativeScript - Module||
+getUTCMinutes|number NativeScript -|()|
+getFloat64|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+requestLayout|void NativeScript -|()|
+distance|number NativeScript -|( loc1: Location, loc2: Location )|
+minimumUpdateTime|number NativeScript -||
+Static|Property NativeScript -| maxValueProperty|
+titleView|View NativeScript -||
+from|numberInt16Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+onStart|void NativeScript -|( activity: any, superFunc: Function )|
+set|MapKV NativeScript - Map<K,|( key: K, value: V )|
+start|any NativeScript -|()|
+clearCache|void NativeScript -|()|
+getFile|anyobject NativeScript -|( path: string, onError?: function )|
+statusText|string NativeScript -||
+namespace|string NativeScript -||
+Static|Property NativeScript -| stretchLastChildProperty|
+Plum|any NativeScript - Module||
+dump|void NativeScript -|( obj: any )|
+Linen|any NativeScript - Module||
+getMeasuredWidth|number NativeScript -|()|
+_createUI|void NativeScript -|()|
+getTop|number NativeScript -|( view: View )|
+attributes|Object NativeScript -||
+getJSON|PromiseT NativeScript - Module|<T>( options: HttpRequestOptions )|
+marginRightProperty|Property NativeScript - Module||
+toLocaleLowerCase|string NativeScript -|()|
+prototype|Uint32Array NativeScript -||
+toISOString|string NativeScript -|()|
+addCssFile|void NativeScript -|( cssFileName: string )|
+match|RegExpMatchArray NativeScript -|( regexp: RegExp )|
+left|number NativeScript -||
+Property|Property NativeScript -|( name: string, cssName: string, metadata: PropertyMetadata, valueConverter?: function )|
+fromNativeSource|ImageSource NativeScript - Module|( source: any )|
+trace|void NativeScript -|()|
+saveToGallery|boolean NativeScript -||
+Style|Style NativeScript -|( parentView: View )|
+setMilliseconds|number NativeScript -|( ms: number )|
+backgroundColor|Color NativeScript -||
+responseText|string NativeScript -||
+eachProperty|voidany NativeScript - Module|( callback: function )|
+writeText|anyany NativeScript -|( path: string, content: string, onError?: function, encoding?: any )|
+_setNativeMinTime|void NativeScript -|()|
+textDecoration|string NativeScript -||
+day|number NativeScript -||
+unshift|number NativeScript -|( _..items: T[] )|
+originY|number NativeScript -||
+Static|Property NativeScript -| itemWidthProperty|
+reject|Promiseany NativeScript -|( error: any )|
+automationText|string NativeScript -||
+valueOf|boolean NativeScript -|()|
+_getStyleScope|StyleScope NativeScript -|()|
+observe|voidany NativeScript -|( type: GestureTypes, callback: function, thisArg?: any )|
+reverse|Uint32Array NativeScript -|()|
+prototype|Error NativeScript -||
+FadeTransition|FadeTransition NativeScript -|( duration: number, nativeCurve: any )|
+path|string NativeScript -||
+isBack|boolean NativeScript -||
+prototype|TypeError NativeScript -||
+NavigationButton|NavigationButton NativeScript -|( json?: any )|
+module|NativeScriptModule NativeScript - Module||
+send|void NativeScript -|( data?: string )|
+fill|Uint16Array NativeScript -|( value: number, start?: number, end?: number )|
+navigationQueueIsEmpty|boolean NativeScript -|()|
+copyWithin|Uint16Array NativeScript -|( target: number, start: number, end?: number )|
+startLocationMonitoring|anyanyany NativeScript -|( onLocation: function, onError?: function, options?: Options )|
+notifyPropertyChange|void NativeScript -|( propertyName: string, newValue: any )|
+latitude|number NativeScript -||
+Aqua|any NativeScript - Module||
+bindingContext|any NativeScript -||
+View|View NativeScript -|( json?: any )|
+type|"""*""#""_"":""[]" NativeScript -||
+rightMarginPercent|number NativeScript -||
+error|any NativeScript -||
+long|any NativeScript - Module|( num: number )|
+concat|T NativeScript - Array<T,|( _..items: T[] )|
+paddingLeft|number NativeScript -||
+bind|any NativeScript -|( options: BindingOptions, source?: Object )|
+on|void NativeScript -|( event: "loadMoreItems", callback: function, thisArg?: any )|
+getFile|File NativeScript -|( name: string )|
+Static|Property NativeScript -| stretchProperty|
+cache|RequestCache NativeScript -||
+DONE|number NativeScript -||
+maxRequests|number NativeScript -||
+log|void NativeScript -|( message: any, _..formatParams: any[] )|
+setUTCDate|number NativeScript -|( date: number )|
+isView|boolean NativeScript -|( arg: any )|
+writeTextSync|anyvoid NativeScript -|( content: string, onError?: function, encoding?: string )|
+removeEventListener|any NativeScript - Module|( listener: EventListener )|
+require|NativeScriptRequire NativeScript - Module||
+Static|string NativeScript -| loadFinishedEvent|
+removed|ArrayT NativeScript -||
+RegExpConstructor|RegExpConstructor NativeScript -|( pattern: string, flags?: string )|
+WebView|WebView NativeScript -|( json?: any )|
+ArrayConstructor|ArrayConstructor NativeScript -|( arrayLength?: number )|
+sort|numberT NativeScript - Array<T,|( compareFn?: function )|
+filter|boolean NativeScript - Array<T,|( callbackfn: function, thisArg?: any )|
+getY|number NativeScript -|()|
+Page|Page NativeScript -|( json?: any )|
+_onContextChanged|void NativeScript -|()|
+_context|any NativeScript -||
+Static|string NativeScript -| downloadedEvent|
+formattedText|FormattedString NativeScript -||
+isNullOrUndefined|boolean NativeScript - Module|( value: any )|
+whiteSpaceProperty|Property NativeScript - Module||
+write|any NativeScript - Module|( message: any, category: string, type?: number )|
+joinPath|string NativeScript -|( left: string, right: string )|
+toLocaleString|string NativeScript -|()|
+Static|string NativeScript -| submitEvent|
+delete|boolean NativeScript - Map<K,|( key: K )|
+TextBase|TextBase NativeScript -|( json?: any )|
+Static|string NativeScript -| selectedIndexChangedEvent|
+navigate|any NativeScript -|( pageModuleName: string )|
+getDrawParams|BackgroundDrawParams NativeScript -|( width: number, height: number )|
+position|Position NativeScript -||
+SourceError|SourceError NativeScript -|( child: Error, source: Source, message?: string )|
+start|objectnumbernumber NativeScript -||
+cast|PromiseT NativeScript -|<T>( promise: Promise<T> )|
+toLocaleString|string NativeScript - Array<T,|()|
+_onContentChanged|any NativeScript -|( oldView: View, newView: View )|
+busy|boolean NativeScript -||
+targetProperty|string NativeScript -||
+cancelable|boolean NativeScript -||
+isIOS|boolean NativeScript - Module||
+srcElement|any NativeScript -||
+Error|ErrorConstructor NativeScript -||
+unsetValue|Object NativeScript - Module||
+foregroundColor|Color NativeScript -||
+value|T NativeScript -||
+map|numberUint8Array NativeScript -|( callbackfn: function, thisArg?: any )|
+stopImmediatePropagation|void NativeScript -|()|
+tokenize|ArrayToken NativeScript - Module|( code: string, options?: Options )|
+unwrap|any NativeScript -|( value: any )|
+ignoreCase|boolean NativeScript -||
+initProgressEvent|void NativeScript -|( typeArg: string, canBubbleArg: boolean, cancelableArg: boolean, lengthComputableArg: boolean, loadedArg: number, totalArg: number )|
+reduceRight|numbernumber NativeScript -|( callbackfn: function, initialValue?: number )|
+toString|functionstringstring NativeScript -||
+Int16ArrayConstructor|Int16ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+lastIndexOf|number NativeScript -|( searchElement: T, fromIndex?: number )|
+prototype|Uint8ClampedArray NativeScript -||
+_setAndroidFragmentTransitions|void NativeScript - Module|( navigationTransition: NavigationTransition, currentFragment: any, newFragment: any, fragmentTransaction: any )|
+LightCyan|any NativeScript - Module||
+reduce|stringstring NativeScript -|( callbackfn: function, initialValue?: string )|
+Request|Request NativeScript -|( input: string | Request, init?: RequestInit )|
+isStar|boolean NativeScript -||
+Bisque|any NativeScript - Module||
+getComponentModule|ComponentModule NativeScript - Module|( elementName: string, namespace: string, attributes: Object, exports: Object )|
+DarkSalmon|any NativeScript - Module||
+_setTextInternal|void NativeScript -|( value: string )|
+DarkCyan|any NativeScript - Module||
+Static|string NativeScript -| itemTapEvent|
+LightGray|any NativeScript - Module||
+SlateGray|any NativeScript - Module||
+off|voidany NativeScript -|( eventNames: string | GestureTypes, callback?: function, thisArg?: any )|
+ArrayBufferConstructor|ArrayBufferConstructor NativeScript -|( byteLength: number )|
+eachInheritableProperty|voidany NativeScript - Module|( callback: function )|
+forEach|voidvoid NativeScript - Map<K,|( callbackfn: function, thisArg?: any )|
+focus|boolean NativeScript -|()|
+updateSpansBindingContext|void NativeScript -|( newBindingContext: any )|
+parse|ArrayCSSValue NativeScript - Module|( cssValue: string )|
+isKnown|boolean NativeScript -||
+stack|string NativeScript -||
+os|string NativeScript -||
+getActivePointers|ArrayPointer NativeScript -|()|
+SkyBlue|any NativeScript - Module||
+returnValue|boolean NativeScript -||
+HEADERS_RECEIVED|number NativeScript -||
+get|any NativeScript -|( key: string )|
+deltaX|number NativeScript -||
+___filename|string NativeScript - Module||
+getOwnPropertyNames|string NativeScript -|( o: any )|
+withRepeat|Background NativeScript -|( value: string )|
+split|string NativeScript -|( separator: RegExp, limit?: number )|
+leftMargin|number NativeScript -||
+size|number NativeScript - Map<K,||
+subarray|Int16Array NativeScript -|( begin: number, end?: number )|
+Static|Property NativeScript -| rowSpanProperty|
+createSelectorsFromImports|RuleSet NativeScript -|( tree: SyntaxTree, keyframes: Object )|
+onloadend|functionProgressEventanyProgressEventany NativeScript -||
+on|void NativeScript -|( event: "scroll", callback: function, thisArg?: any )|
+dynamic|boolean NativeScript -||
+createFormattedStringCore|void NativeScript -|()|
+append|void NativeScript -|( name: string, value: string )|
+toImage|functionPromiseImageSourcePromiseImageSource NativeScript -||
+prototype|Float64Array NativeScript -||
+modal|Page NativeScript -||
+defineProperty|any NativeScript -|( o: any, p: string, attributes: PropertyDescriptor )|
+setMeasuredDimension|void NativeScript -|( measuredWidth: number, measuredHeight: number )|
+CubicBezierAnimationCurve|CubicBezierAnimationCurve NativeScript -|( x1: number, y1: number, x2: number, y2: number )|
+indexOf|number NativeScript -|( searchString: string, position?: number )|
+paddingRightProperty|Property NativeScript - Module||
+push|number NativeScript -|( items: T[] )|
+eachEntity|booleanany NativeScript -|( onEntity: function )|
+GreenYellow|any NativeScript - Module||
+isFunction|boolean NativeScript - Module|( value: any )|
+_setValue|void NativeScript -|( property: Property, value: any, source?: number )|
+fetch|PromiseResponse NativeScript - Module|( url: string, init?: RequestInit )|
+fill|Int16Array NativeScript -|( value: number, start?: number, end?: number )|
+Turquoise|any NativeScript - Module||
+navigationButton|NavigationButton NativeScript -||
+copyWithin|Int16Array NativeScript -|( target: number, start: number, end?: number )|
+css|string NativeScript -||
+withBorderWidth|Background NativeScript -|( value: number )|
+onCreate|void NativeScript -|( fragment: any, savedInstanceState: any, superFunc: Function )|
+setInlineStyle|void NativeScript -|( style: string )|
+Border|Border NativeScript -|( json?: any )|
+clipToBounds|boolean NativeScript -||
+reverse|Float64Array NativeScript -|()|
+MediumSeaGreen|any NativeScript - Module||
+observe|any NativeScript -|( type: GestureTypes )|
+map|numberUint32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+Static|string NativeScript -| EndElement|
+setInt16|void NativeScript -|( byteOffset: number, value: number, littleEndian?: boolean )|
+Bindable|Bindable NativeScript -|( json?: any )|
+defaultValueGetter|functionDependencyObservableNativeValueResultDependencyObservableNativeValueResult NativeScript -||
+cssType|string NativeScript -||
+style|Style NativeScript -||
+Orchid|any NativeScript - Module||
+exports|any NativeScript -||
+getFileExtension|string NativeScript -|( path: string )|
+removeEventListener|any NativeScript -|( eventNames: string, callback?: any, thisArg?: any )|
+onSaveInstanceState|void NativeScript -|( activity: any, outState: any, superFunc: Function )|
+_goToVisualState|any NativeScript -|( state: string )|
+LavenderBlush|any NativeScript - Module||
+topMargin|number NativeScript -||
+zIndex|number NativeScript -||
+type|"[]" NativeScript -||
+Cache|Cache NativeScript -|( json?: any )|
+textAlignmentProperty|Property NativeScript - Module||
+property|K NativeScript - KeyValuePair<K,||
+loadMode|string NativeScript -||
+_onRowAdded|void NativeScript -|( itemSpec: ItemSpec )|
+getUint32|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+onCreateAnimator|any NativeScript -|( fragment: any, transit: number, enter: boolean, nextAnim: number, superFunc: Function )|
+indexOf|number NativeScript -|( searchElement: string, fromIndex?: number )|
+_eachChildView|booleanany NativeScript -|( callback: function )|
+ArrayConstructor|ArrayConstructor NativeScript -|( _..items: T[] )|
+raw|boolean NativeScript -||
+angularSyntax|boolean NativeScript -||
+prompt|PromisePromptResult NativeScript - Module|( options: PromptOptions )|
+parse|Program NativeScript - Module|( code: string, options?: Options )|
+effectiveValue|any NativeScript -||
+borderWidthProperty|Property NativeScript - Module||
+debug|boolean NativeScript - Module||
+fromResource|Promiseboolean NativeScript -|( name: string )|
+initEvent|void NativeScript -|( eventTypeArg: string, canBubbleArg: boolean, cancelableArg: boolean )|
+lineno|number NativeScript -||
+callee|Function NativeScript -||
+RosyBrown|any NativeScript - Module||
+getUint16|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+key|string NativeScript -||
+isEnabled|boolean NativeScript -|()|
+parse|View NativeScript - Module|( value: string | Template, exports?: any )|
+slice|Uint8Array NativeScript -|( start?: number, end?: number )|
+context|any NativeScript -||
+unbind|any NativeScript -|( property: string )|
+items|any NativeScript -||
+withCredentials|boolean NativeScript -||
+direction|SwipeDirection NativeScript -||
+setTop|void NativeScript -|( view: View, value: number )|
+WrappedValue|WrappedValue NativeScript -|( value: any )|
+fragmentTag|string NativeScript -||
+navigate|Pageany NativeScript -|( create: function )|
+fromString|GestureTypes NativeScript - Module|( type: string )|
+contains|boolean NativeScript -|( name: string )|
+removeRows|void NativeScript -|()|
+pow|number NativeScript -|( x: number, y: number )|
+timeEnd|void NativeScript -|( reportName: string )|
+Tan|any NativeScript - Module||
+call|any NativeScript -|( thisArg: any, _..argArray: any[] )|
+type|"*" NativeScript -||
+clone|Response NativeScript -|()|
+source|Source NativeScript -||
+Static|Property NativeScript -| textProperty|
+MediumVioletRed|any NativeScript - Module||
+getUIFont|any NativeScript -|( defaultFont: any )|
+onerror|functionEventanyEventany NativeScript -||
+backgroundColorProperty|Property NativeScript - Module||
+type|GestureTypes NativeScript -||
+currentActivity|any NativeScript -||
+getAnimations|KeyframeAnimationInfo NativeScript -|( ruleset: RuleSet )|
+atan|number NativeScript -|( x: number )|
+rowHeight|number NativeScript -||
+changeMap|ChangeMap NativeScript -||
+loc|boolean NativeScript -||
+IndianRed|any NativeScript - Module||
+horizontalAlignmentProperty|Property NativeScript - Module||
+startMonitoring|voidvoid NativeScript - Module|( connectionTypeChangedCallback: function )|
+Static|Property NativeScript -| clipToBoundsProperty|
+Float32ArrayConstructor|Float32ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+subarray|Int8Array NativeScript -|( begin: number, end?: number )|
+NaN|number NativeScript -||
+concat|string NativeScript -|<U>( _..items: U[] )|
+get|any NativeScript -|( name: string )|
+loadFromResource|boolean NativeScript -|( name: string )|
+delete|boolean NativeScript -|( value: T )|
+getColumns|ArrayItemSpec NativeScript -|()|
+getLayerType|number NativeScript -|()|
+Orange|any NativeScript - Module||
+model|string NativeScript -||
+preventExtensions|T NativeScript -|<T>( o: T )|
+osVersion|string NativeScript -||
+filter|booleanUint8Array NativeScript -|( callbackfn: function, thisArg?: any )|
+stop|any NativeScript -|()|
+LightSeaGreen|any NativeScript - Module||
+stopLoading|void NativeScript -|()|
+DockLayout|DockLayout NativeScript -|( json?: any )|
+getMeasuredHeight|number NativeScript -|()|
+getNumber|number NativeScript - Module|( key: string, defaultValue?: number )|
+Static|string NativeScript -| creatingViewEvent|
+float|any NativeScript - Module|( num: number )|
+map|numberUint8ClampedArray NativeScript -|( callbackfn: function, thisArg?: any )|
+emptyFolder|anyvoid NativeScript -|( path: string, onError?: function )|
+year|number NativeScript -||
+_isVisible|boolean NativeScript -||
+view|any NativeScript -||
+Uint32ArrayConstructor|Uint32ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+Slider|Slider NativeScript -|( json?: any )|
+Chartreuse|any NativeScript - Module||
+reverse|Uint16Array NativeScript -|()|
+Uint16ArrayConstructor|Uint16ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+GesturesObserver|GesturesObserver NativeScript -|( target: View, callback: function, context: any )|
+_beginUpdate|any NativeScript -|()|
+toLocaleUpperCase|string NativeScript -|()|
+ItemSpec|ItemSpec NativeScript -|( value: number, type: "star" )|
+Static|string NativeScript -| changeEvent|
+borderColor|Color NativeScript -||
+unshift|number NativeScript -|( _..items: string[] )|
+clipPathProperty|Property NativeScript - Module||
+target|View NativeScript -||
+scaleY|number NativeScript -||
+login|PromiseLoginResult NativeScript - Module|( options: LoginOptions )|
+loadSize|number NativeScript -||
+slice|ArrayBuffer NativeScript -|( begin: number, end?: number )|
+Static|string NativeScript -| unloadedEvent|
+object|Observable NativeScript -||
+StackLayout|StackLayout NativeScript -|( json?: any )|
+state|number NativeScript -||
+translateXProperty|Property NativeScript - Module||
+setRequestHeader|void NativeScript -|( header: string, value: string )|
+_updateTextDecoration|void NativeScript -|()|
+parentsRegex|RegExp NativeScript - Module||
+time|void NativeScript -|( reportName: string )|
+_endUpdate|any NativeScript -|()|
+rootViewGroup|any NativeScript -||
+borderRadius|number NativeScript -||
+onLoaded|void NativeScript -|()|
+delete|void NativeScript -|( name: string )|
+PowderBlue|any NativeScript - Module||
+_removePageNativeViewFromAndroidParent|void NativeScript - Module|( page: Page )|
+observe|voidGesturesObserver NativeScript - Module|( target: View, type: GestureTypes, callback: function, context?: any )|
+concat|T NativeScript -|( _..items: T[] )|
+className|string NativeScript -||
+next|IteratorResultT NativeScript -|( value?: any )|
+direction|number NativeScript -||
+y2|number NativeScript -||
+sizeX|number NativeScript -||
+getUTCHours|number NativeScript -|()|
+onDestroy|void NativeScript -|( activity: any, superFunc: Function )|
+minute|number NativeScript -||
+Static|string NativeScript -| Update|
+status|number NativeScript -||
+Layout|Layout NativeScript -|( json?: any )|
+Static|string NativeScript -| Text|
+instance|Transition NativeScript -||
+setPropertyValue|void NativeScript - Module|( instance: View, instanceModuleExports: Object, pageExports: Object, propertyName: string, propertyValue: any )|
+replace|string NativeScript -|( searchValue: string, replaceValue: string )|
+_clearForwardTransitions|void NativeScript - Module|( fragment: any )|
+transition|NavigationTransition NativeScript -||
+whiteSpace|string NativeScript -||
+SpringGreen|any NativeScript - Module||
+on|void NativeScript -|( event: "downloaded", callback: function, thisArg?: any )|
+LN10|number NativeScript -||
+end|objectnumbernumber NativeScript -||
+_propagateInheritableProperties|any NativeScript -|( view: View )|
+headers|Headers NativeScript -||
+iconSource|string NativeScript -||
+wrap|WrappedValue NativeScript -|( value: any )|
+resolve|PromiseT NativeScript -|<T>( object?: T )|
+on|void NativeScript -|( event: "optionSelected", callback: function, thisArg?: any )|
+get|Source NativeScript -|( object: any )|
+random|number NativeScript -|()|
+typeName|string NativeScript -||
+valueOf|string NativeScript -|()|
+password|string NativeScript -||
+_onAttached|void NativeScript -|( context: any )|
+canGoBack|boolean NativeScript -|()|
+Uint8ClampedArrayConstructor|Uint8ClampedArrayConstructor NativeScript -|( length: number )|
+Coral|any NativeScript - Module||
+split|string NativeScript -|( separator: string, limit?: number )|
+set|void NativeScript -|( index: number, value: number )|
+map|numberFloat64Array NativeScript -|( callbackfn: function, thisArg?: any )|
+toUpperCase|string NativeScript -|()|
+responseBody|any NativeScript -||
+PromiseConstructor|PromiseConstructor NativeScript -|( value?: T | PromiseLike<T> )|
+ScopeError|ScopeError NativeScript -|( child: Error, message?: string )|
+headers|any NativeScript -||
+asin|number NativeScript -|( x: number )|
+of|Uint8Array NativeScript -|( _..items: number[] )|
+filter|string NativeScript -||
+cancel|functionvoidvoid NativeScript -||
+exists|boolean NativeScript -|( path: string )|
+fromBase64|Promiseboolean NativeScript -|( source: string )|
+activity|any NativeScript -||
+getInt32|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+animateIOSTransition|voidvoid NativeScript -|( containerView: any, fromView: any, toView: any, operation: any, completion: function )|
+translateYProperty|Property NativeScript - Module||
+Gainsboro|any NativeScript - Module||
+enumerable|boolean NativeScript -||
+transitioniOS|NavigationTransition NativeScript -||
+concat|string NativeScript -|( _..items: string[] )|
+onprogress|functionProgressEventanyProgressEventany NativeScript -||
+keyframeAnimationFromInfo|any NativeScript -|( info: KeyframeAnimationInfo, valueSourceModifier: number )|
+byteLength|number NativeScript -||
+onSaveInstanceState|void NativeScript -|( fragment: any, outState: any, superFunc: Function )|
+hint|string NativeScript -||
+gridUnitType|string NativeScript -||
+secure|boolean NativeScript -||
+_childrenCount|number NativeScript -||
+DarkKhaki|any NativeScript - Module||
+currentPage|Page NativeScript -||
+on|void NativeScript -|( event: "itemsLoading", callback: function, thisArg?: any )|
+device|Device NativeScript - Module||
+write|anyany NativeScript -|( path: string, content: any, onError?: function )|
+filter|booleanUint32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+placeholderColor|Color NativeScript -||
+exp|number NativeScript -|( x: number )|
+total|number NativeScript -||
+enable|void NativeScript - Module|()|
+onDestroyView|void NativeScript -|( fragment: any, superFunc: Function )|
+sort|numberInt16Array NativeScript -|( compareFn?: function )|
+lastIndex|number NativeScript -||
+bind|any NativeScript -|( thisArg: any, _..argArray: any[] )|
+letterSpacingProperty|Property NativeScript - Module||
+Int32ArrayConstructor|Int32ArrayConstructor NativeScript -|( array: ArrayLike<number> )|
+getLocation|PromiseLocation NativeScript - Module|( options?: Options )|
+Black|any NativeScript - Module||
+isNaN|boolean NativeScript - Module|( number: number )|
+editable|boolean NativeScript -||
+paddingTop|number NativeScript -||
+property|Property NativeScript -||
+prototype|Int32Array NativeScript -||
+fontWeight|string NativeScript -||
+Static|Property NativeScript -| hourProperty|
+push|number NativeScript - Array<T,|( _..items: T[] )|
+_applyXmlAttribute|boolean NativeScript -|( attribute: string, value: any )|
+confirm|Promiseboolean NativeScript - Module|( message: string )|
+setUint8|void NativeScript -|( byteOffset: number, value: number )|
+layoutView|View NativeScript -||
+exec|RegExpExecArray NativeScript -|( string: string )|
+setLeft|void NativeScript -|( view: View, value: number )|
+responseXML|any NativeScript -||
+animate|AnimationPromise NativeScript -|( options: AnimationDefinition )|
+_requestLayoutOnTextChanged|void NativeScript -|()|
+setNativeSource|boolean NativeScript -|( source: any )|
+filter|booleanUint8ClampedArray NativeScript -|( callbackfn: function, thisArg?: any )|
+Int16ArrayConstructor|Int16ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+colorProperty|Property NativeScript - Module||
+slice|Int16Array NativeScript -|( start?: number, end?: number )|
+disableDownload|void NativeScript -|()|
+log|void NativeScript - Module|( data: any )|
+reverse|Int32Array NativeScript -|()|
+paddingRight|number NativeScript -||
+horizontalAccuracy|number NativeScript -||
+setColumnSpan|void NativeScript -|( view: View, value: number )|
+goBack|any NativeScript -|( to?: BackstackEntry )|
+stopLocationMonitoring|any NativeScript -|()|
+Static|Property NativeScript -| textWrapProperty|
+filter|booleanT NativeScript -|( callbackfn: function, thisArg?: any )|
+NEGATIVE_INFINITY|number NativeScript -||
+oldValue|any NativeScript -||
+content|stringFormData NativeScript -||
+fromData|ImageSource NativeScript - Module|( data: any )|
+items|ArrayTabViewItem NativeScript -||
+items|ArraySegmentedBarItem NativeScript -||
+reverse|T NativeScript - Array<T,|()|
+Red|any NativeScript - Module||
+navigationBarHeight|number NativeScript -||
+Static|Property NativeScript -| selectedIndexProperty|
+Static|string NativeScript -| loadMoreItemsEvent|
+concat|T NativeScript -|<U>( _..items: U[] )|
+result|boolean NativeScript -||
+getDate|number NativeScript -|()|
+tan|number NativeScript -|( x: number )|
+has|boolean NativeScript - WeakMap<K,|( key: K )|
+lengthComputable|boolean NativeScript -||
+backgroundSize|string NativeScript -||
+speed|number NativeScript -||
+parseJSON|any NativeScript - Module|( source: string )|
+setCategories|any NativeScript - Module|( categories: string )|
+Label|Label NativeScript -|( json?: any )|
+setUTCHours|number NativeScript -|( hours: number, min?: number, sec?: number, ms?: number )|
+remove|Promiseany NativeScript -|()|
+showModal|Page NativeScript -|( moduleName: string, context: any, closeCallback: Function, fullscreen?: boolean )|
+scaleYProperty|Property NativeScript - Module||
+child|Error NativeScript -||
+withFontSize|Font NativeScript -|( size: number )|
+navBarVisibility|string NativeScript -||
+slice|T NativeScript - Array<T,|( start?: number, end?: number )|
+animated|boolean NativeScript -||
+reduce|TT NativeScript - Array<T,|( callbackfn: function, initialValue?: T )|
+registerShorthandCallback|ArrayKeyValuePairPropertyanyvoid NativeScript - Module|( name: string, callback: function )|
+eachDescendant|booleanany NativeScript - Module|( view: View, callback: function )|
+append|void NativeScript -|( name: any, value: any, blobName?: string )|
+getFocusX|number NativeScript -|()|
+scaleX|number NativeScript -||
+prototype|RangeError NativeScript -||
+escapeRegexSymbols|string NativeScript - Module|( source: string )|
+parentFormattedString|FormattedString NativeScript -||
+Array|ArrayConstructor NativeScript -||
+delay|number NativeScript -||
+FPSCallback|FPSCallback NativeScript -|( currentTimeMillis: number )|
+___dirname|string NativeScript - Module||
+actionBar|ActionBar NativeScript -||
+initErrorEvent|void NativeScript -|( typeArg: string, canBubbleArg: boolean, cancelableArg: boolean, messageArg: string, filenameArg: string, linenoArg: number )|
+backgroundImageProperty|Property NativeScript - Module||
+valueConverter|functionstringanystringany NativeScript -||
+_getNativeViewsCount|number NativeScript -|()|
+timeout|number NativeScript -||
+Uint16ArrayConstructor|Uint16ArrayConstructor NativeScript -|( length: number )|
+backgroundInternalProperty|Property NativeScript - Module||
+parse|void NativeScript -|( xmlString: string )|
+XmlParser|XmlParser NativeScript -|( error: Error, position: Position )|
+on|void NativeScript -|( event: "submit", callback: function, thisArg?: any )|
+x2|number NativeScript -||
+clearHistory|boolean NativeScript -||
+splice|T NativeScript -|( start: number, deleteCount: number, _..items: T[] )|
+stringify|string NativeScript -|( value: any, replacer: function, space: string | number )|
+warn|void NativeScript -|( message: any, _..formatParams: any[] )|
+clearTimeout|void NativeScript - Module|( id: number )|
+setMonth|number NativeScript -|( month: number, date?: number )|
+setTimeout|number NativeScript - Module|( callback: Function, milliseconds?: number )|
+maxValue|number NativeScript -||
+then|PromiseLikeU NativeScript -|<U>( onFulfilled?: function, onRejected?: function )|
+shift|string NativeScript -|()|
+ActionBar|ActionBar NativeScript -|( json?: any )|
+openUrl|boolean NativeScript - Module|( url: string )|
+verticalOffset|number NativeScript -||
+DateConstructor|DateConstructor NativeScript -|( value: number )|
+withImage|Background NativeScript -|( value: ImageSource )|
+baseClassInfo|ClassInfo NativeScript -||
+_isAddedToNativeVisualTree|boolean NativeScript -||
+spans|ObservableArraySpan NativeScript -||
+horizontalOffset|number NativeScript -||
+json|Promiseany NativeScript -|()|
+isExtensible|boolean NativeScript -|( o: any )|
+inheritable|boolean NativeScript -||
+on|void NativeScript -|( event: "showingModally", callback: function, thisArg?: any )|
+raw|string NativeScript -||
+getCurrentAppPath|string NativeScript -|()|
+forEach|voidvoid NativeScript - Array<T,|( callbackfn: function, thisArg?: any )|
+setUTCFullYear|number NativeScript -|( year: number, month?: number, date?: number )|
+stack|ArrayFrame NativeScript - Module|()|
+slice|string NativeScript -|( start?: number, end?: number )|
+canGoBack|boolean NativeScript -||
+reduceRight|T NativeScript - Array<T,|<U>( callbackfn: function, initialValue: U )|
+addCategories|any NativeScript - Module|( categories: string )|
+toLowerCase|string NativeScript -|()|
+repeatY|boolean NativeScript -||
+equalityComparer|PropertyEqualityComparer NativeScript -||
+from|numberInt32Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+onBackPressed|void NativeScript -|( activity: any, superFunc: Function )|
+scrollToIndex|any NativeScript -|( index: number )|
+setString|void NativeScript - Module|( key: string, value: string )|
+SyntaxErrorConstructor|SyntaxErrorConstructor NativeScript -|( message?: string )|
+subarray|Uint8ClampedArray NativeScript -|( begin: number, end?: number )|
+registerHandler|any NativeScript - Module|( property: Property, handler: StylePropertyChangedHandler, className?: string )|
+underline|number NativeScript -||
+extension|string NativeScript -||
+opacity|number NativeScript -||
+sdkVersion|string NativeScript -||
+getViewById|View NativeScript - Module|( view: View, id: string )|
+assert|void NativeScript -|( test: boolean, message: string, _..formatParams: any[] )|
+Static|Property NativeScript -| rowProperty|
+_eachSetProperty|booleanvoid NativeScript -|( callback: function )|
+GC|any NativeScript - Module|()|
+adjustChildrenLayoutParams|void NativeScript -|( layoutBase: LayoutBase, widthMeasureSpec: number, heightMeasureSpec: number )|
+parse|SyntaxTree NativeScript - Module|( css: string, options: any )|
+getUTCMilliseconds|number NativeScript -|()|
+Int8ArrayConstructor|Int8ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+Span|Span NativeScript -|( json?: any )|
+isBackNavigation|boolean NativeScript -||
+_onColumnRemoved|void NativeScript -|( itemSpec: ItemSpec, index: number )|
+verticalAlignment|string NativeScript -||
+_onFragmentCreateAnimator|any NativeScript - Module|( fragment: any, nextAnim: number )|
+encodeURI|string NativeScript - Module|( uri: string )|
+takePicture|PromiseImageSource NativeScript - Module|( options?: CameraOptions )|
+actionBar|any NativeScript -||
+SQRT1_2|number NativeScript -||
+zIndexProperty|Property NativeScript - Module||
+hasKey|boolean NativeScript - Module|( key: string )|
+clear|void NativeScript - Map<K,|()|
+zonedCallback|Function NativeScript - Module|( callback: Function )|
+hasOwnProperty|boolean NativeScript -|( v: string )|
+type|"#" NativeScript -||
+originX|number NativeScript -||
+all|PromiseT NativeScript -|<T>( promises: Promise<T>[] )|
+fromUrl|PromiseImageSource NativeScript - Module|( url: string )|
+Source|Source NativeScript -|( uri: string, line: number, column: number )|
+withFontFamily|Font NativeScript -|( family: string )|
+_shouldApplyStyleHandlers|any NativeScript -|()|
+body|BodyInit NativeScript -||
+enableDownload|void NativeScript -|()|
+WeakRef|WeakRef<T> NativeScript -|<T>( obj: T )|
+UTC|number NativeScript -|( year: number, month: number, date?: number, hours?: number, minutes?: number, seconds?: number, ms?: number )|
+setMinutes|number NativeScript -|( min: number, sec?: number, ms?: number )|
+reduce|string NativeScript -|<U>( callbackfn: function, initialValue: U )|
+scrollableHeight|number NativeScript -||
+_resetValue|void NativeScript -|( property: Property, source?: number )|
+getChildrenCount|number NativeScript -|()|
+on|void NativeScript -|( event: "loadFinished", callback: function, thisArg?: any )|
+updateSpanModifiers|void NativeScript -|( parent: FormattedString )|
+on|voidany NativeScript -|( event: "unloaded", callback: function, thisArg?: any )|
+Violet|any NativeScript - Module||
+addEventListener|anyvoid NativeScript -|( type: "load", listener: function, useCapture?: boolean )|
+Static|Property NativeScript -| itemTemplateProperty|
+_eachSetPropertyValue|voidvoid NativeScript -|( callback: function )|
+response|any NativeScript -||
+FunctionConstructor|FunctionConstructor NativeScript -|( _..args: string[] )|
+RangeErrorConstructor|RangeErrorConstructor NativeScript -|( message?: string )|
+resolvePageFromEntry|Page NativeScript - Module|( entry: NavigationEntry )|
+Static|Property NativeScript -| srcProperty|
+_inheritStyleProperties|void NativeScript -|( parent: View )|
+view|View NativeScript -||
+prototype|RegExp NativeScript -||
+minHour|number NativeScript -||
+_onColumnAdded|void NativeScript -|( itemSpec: ItemSpec )|
+addEventListener|voidany NativeScript -|( eventNames: string, callback: function, thisArg?: any )|
+tabsBackgroundColor|Color NativeScript -||
+onSetNativeValue|PropertyChangedCallback NativeScript -||
+concat|string NativeScript -|( _..strings: string[] )|
+pseudoClasses|Setstring NativeScript -||
+getFolder|Folder NativeScript -|( name: string )|
+LightPink|any NativeScript - Module||
+_getValue|any NativeScript -|( property: Property )|
+resolveFileName|string NativeScript - Module|( path: string, ext: string )|
+of|Float32Array NativeScript -|( _..items: number[] )|
+removeChildren|void NativeScript -|()|
+resolveSizeAndState|number NativeScript -|( size: number, specSize: number, specMode: number, childMeasuredState: number )|
+clearSync|voidvoid NativeScript -|( onError?: function )|
+manufacturer|string NativeScript -||
+getFile|PromiseFile NativeScript - Module|( options: HttpRequestOptions, destinationFilePath?: string )|
+_raiseTap|void NativeScript -|()|
+notify|void NativeScript -|<T>( data: T )|
+error|void NativeScript -|( message: any, _..formatParams: any[] )|
+getLocationRelativeTo|Point NativeScript -|( otherView: View )|
+filter|booleanInt32Array NativeScript -|( callbackfn: function, thisArg?: any )|
+marginRight|number NativeScript -||
+fill|Uint8Array NativeScript -|( value: number, start?: number, end?: number )|
+method|string NativeScript -||
+getEntitiesSync|anyPromiseArrayFileSystemEntity NativeScript -|( onError?: function )|
+copyWithin|Uint8Array NativeScript -|( target: number, start: number, end?: number )|
+scrollToVerticalOffset|any NativeScript -|( value: number, animated: boolean )|
+navigationType|string NativeScript -||
+Static|Font NativeScript -| default|
+arguments|any NativeScript -||
+PromiseConstructor|PromiseConstructor NativeScript -|( executor: function )|
+fontSize|number NativeScript -||
+reload|any NativeScript -|()|
+info|void NativeScript -|( message: any, _..formatParams: any[] )|
+floor|number NativeScript -|( x: number )|
+size|string NativeScript -||
+E|number NativeScript -||
+then|PromiseLikevoid NativeScript -|( onFulfilled?: function, onRejected?: function )|
+cssPseudoClasses|Setstring NativeScript -||
+freeze|T NativeScript -|<T>( o: T )|
+valueSource|number NativeScript -||
+Static|Property NativeScript -| minuteProperty|
+elementName|string NativeScript -||
+deletePseudoClass|void NativeScript -|( name: string )|
+JavaProxy|ClassDecorator NativeScript - Module|( nativeClassName: string )|
+sizeY|number NativeScript -||
+getSeconds|number NativeScript -|()|
+stretchLastChild|boolean NativeScript -||
+_setNavBarBackgroundColor|any NativeScript - Module|( navBar: any, color: any )|
+getInt16|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+slice|Blob NativeScript -|( start?: number, end?: number, contentType?: string )|
+cast|PromiseT NativeScript -|<T>( object: T )|
+unit|string NativeScript -||
+Static|Property NativeScript -| selectedColorProperty|
+isBold|boolean NativeScript -||
+acos|number NativeScript -|( x: number )|
+then|PromiseLikeUPromiseLikeUPromiseU NativeScript -|<U>( onFulfilled?: function, onRejected?: function )|
+prototype|String NativeScript -||
+hasListeners|boolean NativeScript -|( eventName: string )|
+SandyBrown|any NativeScript - Module||
+handled|boolean NativeScript -||
+UNSENT|number NativeScript -||
+Wheat|any NativeScript - Module||
+android|AndroidActionItemSettings NativeScript -||
+clear|void NativeScript -|()|
+sort|numberT NativeScript -|( compareFn?: function )|
+fromFile|ImageSource NativeScript - Module|( path: string )|
+tokens|boolean NativeScript -||
+translate|Pair NativeScript -||
+fontInternalProperty|Property NativeScript - Module||
+Static|string NativeScript -| returnPressEvent|
+Int16ArrayConstructor|Int16ArrayConstructor NativeScript -|( length: number )|
+height|number NativeScript -||
+applyInlineSyle|void NativeScript - Module|( view: View, style: string )|
+Brown|any NativeScript - Module||
+isAndroid|boolean NativeScript - Module||
+OPENED|number NativeScript -||
+SeaShell|any NativeScript - Module||
+writeSync|anyvoid NativeScript -|( content: any, onError?: function )|
+multiline|boolean NativeScript -||
+textFieldBackgroundColor|Color NativeScript -||
+getClass|string NativeScript - Module|( object: any )|
+addRow|void NativeScript -|( itemSpec: ItemSpec )|
+declarations|Declaration NativeScript -||
+Property|Property NativeScript -|( name: string, ownerType: string, metadata: PropertyMetadata, valueConverter?: function )|
+has|boolean NativeScript - Map<K,|( key: K )|
+getColumnSpan|number NativeScript -|( view: View )|
+addEventListener|any NativeScript -|( type: "error", listener: function, useCapture?: boolean )|
+splice|T NativeScript -|( start: number )|
+leftMarginPercent|number NativeScript -||
+getFloat32|number NativeScript -|( byteOffset: number, littleEndian?: boolean )|
+_addView|any NativeScript -|( view: View, atIndex?: number )|
+start|void NativeScript - Module|()|
+callback|functionGestureEventDatavoidGestureEventDatavoid NativeScript -||
+MistyRose|any NativeScript - Module||
+WhiteSmoke|any NativeScript - Module||
+ensureSelectors|boolean NativeScript -|()|
+rules|Node NativeScript -||
+catch|PromiseLikevoid NativeScript -|( onRejected?: function )|
+systemIcon|string NativeScript -||
+toLocaleDateString|string NativeScript -|()|
+y|number NativeScript -||
+Static|Property NativeScript -| isUserInteractionEnabledProperty|
+_syncNativeProperties|void NativeScript -|()|
+saveToFile|boolean NativeScript -|( path: string, format: string, quality?: number )|
+android|AndroidFrame NativeScript -||
+navDepth|number NativeScript -||
+Static|Property NativeScript -| urlProperty|
+of|Int8Array NativeScript -|( _..items: number[] )|
+minHeightProperty|Property NativeScript - Module||
+isAuto|boolean NativeScript -||
+fontAttributes|number NativeScript -||
+getTimezoneOffset|number NativeScript -|()|
+placeholderColorProperty|Property NativeScript - Module||
+cssClasses|Setstring NativeScript -||
+toBase64String|string NativeScript -|( format: string, quality?: number )|
+atan2|number NativeScript -|( y: number, x: number )|
+Indigo|any NativeScript - Module||
+Teal|any NativeScript - Module||
+getAndroidTypeface|any NativeScript -|()|
+_clearBackwardTransitions|void NativeScript - Module|( fragment: any )|
+Static|string NativeScript -| loadedEvent|
+Static|Property NativeScript -| visibilityProperty|
+ActivityIndicator|ActivityIndicator NativeScript -|( json?: any )|
+addItem|void NativeScript -|( item: ActionItem )|
+eachEntity|booleananyany NativeScript -|( path: string, onEntity: function, onError?: function )|
+NumberConstructor|NumberConstructor NativeScript -|( value?: any )|
+getParent|anyobject NativeScript -|( path: string, onError?: function )|
+isArray|boolean NativeScript -|( arg: any )|
+shift|T NativeScript -|()|
+getX|number NativeScript -|()|
+getLocationInWindow|Point NativeScript -|()|
+stringify|any NativeScript -|( value: any, replacer: any[] )|
+backgroundRepeat|string NativeScript -||
+mode|RequestMode NativeScript -||
+endings|string NativeScript -||
+FormattedString|FormattedString NativeScript -|()|
+iconVisibility|string NativeScript -||
+map|numberInt8Array NativeScript -|( callbackfn: function, thisArg?: any )|
+parse|number NativeScript -|( s: string )|
+prop|string NativeScript -||
+FloralWhite|any NativeScript - Module||
+g|number NativeScript -||
+_removeFromSuperview|any NativeScript -|()|
+Int32ArrayConstructor|Int32ArrayConstructor NativeScript -|( buffer: ArrayBuffer, byteOffset?: number, length?: number )|
+isPseudo|boolean NativeScript - Module|( sel: SimpleSelector )|
+navigationContext|any NativeScript -||
+setDock|void NativeScript -|( view: View, value: string )|
+valueOf|Object NativeScript -|()|
+posX|number NativeScript -||
+set|functionTvoidTvoid NativeScript -||
+marginBottom|number NativeScript -||
+marginTopProperty|Property NativeScript - Module||
+repeatX|boolean NativeScript -||
+from|numberUint16Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+ErrorConstructor|ErrorConstructor NativeScript -|( message?: string )|
+isEmpty|boolean NativeScript -|()|
+bodyUsed|boolean NativeScript -||
+_eachLayoutView|voidvoid NativeScript -|( callback: function )|
+onLayout|void NativeScript -|( left: number, top: number, right: number, bottom: number )|
+SaddleBrown|any NativeScript - Module||
+verifyCallback|void NativeScript - Module|( value: any )|
+addEventListener|any NativeScript -|( type: "timeout", listener: function, useCapture?: boolean )|
+longitude|number NativeScript -||
+length|number NativeScript - Array<T,||
+addWeakEventListener|voidvoid NativeScript - Module|( source: Observable, eventName: string, handler: function, target: any )|
+MediumBlue|any NativeScript - Module||
+Static|Property NativeScript -| monthProperty|
+minuteInterval|number NativeScript -||
+withBorderRadius|Background NativeScript -|( value: number )|
+_addChildFromBuilder|void NativeScript -|( name: string, value: any )|
+fontWeightProperty|Property NativeScript - Module||
+loadFromData|boolean NativeScript -|( data: any )|
+getEntities|anyArrayobject NativeScript -|( path: string, onError?: function )|
+set|void NativeScript -|( name: string, value: string )|
+repeat|string NativeScript -||
+from|numberUint8Array NativeScript -|( arrayLike: ArrayLike<number>, mapfn?: function, thisArg?: any )|
+moduleName|string NativeScript -||
+indexOf|number NativeScript -|( searchElement: T, fromIndex?: number )|
+Frame|Frame NativeScript -|( json?: any )|
+reduce|T NativeScript -|<U>( callbackfn: function, initialValue: U )|
+top|number NativeScript -||
+request|PromiseHttpResponse NativeScript - Module|( options: HttpRequestOptions )|
+alert|Promisevoid NativeScript - Module|( options: AlertOptions )|
+substring|string NativeScript -|( start: number, end?: number )|
+exports|any NativeScript - Module||
+Int8ArrayConstructor|Int8ArrayConstructor NativeScript -|( length: number )|
+prototype|ReferenceError NativeScript -||
+index|number NativeScript -||
+getInt8|number NativeScript -|( byteOffset: number )|
+valueOf|number NativeScript -|()|
+canGoForward|boolean NativeScript -||
+bottomMargin|number NativeScript -||
+actionItems|ActionItems NativeScript -||
+fromFileOrResource|ImageSource NativeScript - Module|( path: string )|
+MediumTurquoise|any NativeScript - Module||
+notifyEvent|any NativeScript - Module|( object: Object, name: string, data?: any )|
+reduceRight|stringstring NativeScript -|( callbackfn: function, initialValue?: string )|
+getShorthandPairs|ArrayKeyValuePairPropertyany NativeScript - Module|( name: string, value: any )|
+restoreOriginalParams|void NativeScript -|( layoutBase: LayoutBase )|
+Static|Property NativeScript -| busyProperty|
+Static|string NativeScript -| navigatingFromEvent|
+scrollY|number NativeScript -||
+getDocumentsFolderPath|string NativeScript -|()|
+autocapitalizationType|string NativeScript -||
+textTransformProperty|Property NativeScript - Module||
+string|string NativeScript -||
+filename|string NativeScript -||
+placeholder|ImageSource NativeScript -||
+getAllPointers|ArrayPointer NativeScript -|()|
+_onRowRemoved|void NativeScript -|( itemSpec: ItemSpec, index: number )|
+id|string NativeScript -||
+LemonChiffon|any NativeScript - Module||
+fontSizeProperty|Property NativeScript - Module||
+message|string NativeScript -||
+WrapLayout|WrapLayout NativeScript -|( json?: any )|
+Snow|any NativeScript - Module||
+setItem|void NativeScript -|( index: number, value: T )|
+on|voidvoid NativeScript -|( event: "navigatedFrom", callback: function, thisArg?: any )|
+Magenta|any NativeScript - Module||
+_boundsChanged|void NativeScript -|()|
+minValue|number NativeScript -||
+findIndex|booleannumber NativeScript -|( predicate: function, thisArg?: any )|
+PI|number NativeScript -||
+DimGray|any NativeScript - Module||
+EasySAXParser|EasySAXParser NativeScript -|()|
+translateY|number NativeScript -||
+Static|PromiseConstructor NativeScript -| Promise|
+equals|boolean NativeScript -|( value: Color )|
+setLayerType|void NativeScript -|( layerType: number, paint: any )|
+White|any NativeScript - Module||
+unshift|number NativeScript - Array<T,|( _..items: T[] )|
+HotPink|any NativeScript - Module||
+subarray|Float32Array NativeScript -|( begin: number, end?: number )|
+ActionItem|ActionItem NativeScript -|( json?: any )|
+component|View NativeScript -||
+Static|Property NativeScript -| bindingContextProperty|
+Progress|Progress NativeScript -|( json?: any )|
+_onPropertyChanged|void NativeScript -|( property: Property, oldValue: any, newValue: any )|
+currentEntry|NavigationEntry NativeScript -||
+return|IteratorResultT NativeScript -|( value?: any )|
+closeModal|void NativeScript -|()|
+source|boolean NativeScript -||

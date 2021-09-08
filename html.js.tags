@@ -1,0 +1,358 @@
+# format=pipe
+sort|void|()|
+dir|DOMString||
+onkeydown|EventHandler||
+form|HTMLFormElement||
+oncancel|EventHandler||
+caption|HTMLTableCaptionElement||
+returnValue|DOMString||
+method|DOMString||
+validationMessage|DOMString||
+draggable|boolean||
+onfocus|EventHandler||
+NONE|const unsigned short||
+onpageshow|EventHandler||
+show|void|( anchor?: MouseEvent|Element )|
+setContext|void|( context: RenderingContext )|
+disabled|boolean||
+namedItem|Element|( name: DOMString )|
+min|double||
+data|DOMString||
+pause|void|()|
+HAVE_NOTHING|const unsigned short||
+oncuechange|EventHandler||
+deleteCell|void|( index: long )|
+NETWORK_NO_SOURCE|const unsigned short||
+min|DOMString||
+files|FileList||
+ERROR|const unsigned short||
+HAVE_METADATA|const unsigned short||
+useMap|DOMString||
+download|DOMString||
+onhashchange|EventHandler||
+play|void|()|
+inputMode|DOMString||
+transferControlToProxy|CanvasProxy|()|
+onpagehide|EventHandler||
+stopSorting|void|()|
+canPlayType|CanPlayTypeResult|( type: DOMString )|
+onautocompleteerror|EventHandler||
+ondurationchange|EventHandler||
+HTMLImageElement|HTMLImageElement|( width?: unsigned long, height?: unsigned long )|
+reportValidity|boolean|()|
+typeMustMatch|boolean||
+ended|boolean||
+legacycaller|any|( arguments_..: any )|
+textLength|unsigned long||
+seekable|TimeRanges||
+translate|boolean||
+requestAutocomplete|void|()|
+sorted|DOMString||
+ondragstart|EventHandler||
+index|long||
+default|boolean||
+onended|EventHandler||
+onselect|EventHandler||
+resetStyleInheritance|boolean||
+defer|boolean||
+toBlob|void|( _callback: FileCallback, type?: DOMString, arguments_..: any )|
+commandType|DOMString||
+contentWindow|WindowProxy||
+createTBody|HTMLElement|()|
+ondblclick|EventHandler||
+valueHigh|double||
+commandChecked|boolean||
+onmessage|EventHandler||
+async|boolean||
+preload|DOMString||
+itemId|DOMString||
+selectionStart|unsigned long||
+onpause|EventHandler||
+onchange|EventHandler||
+itemProp|DOMSettableTokenList||
+submit|void|()|
+formMethod|DOMString||
+crossOrigin|DOMString||
+createTHead|HTMLElement|()|
+olderShadowRoot|ShadowRoot||
+control|HTMLElement||
+abbr|DOMString||
+rows|HTMLCollection||
+icon|DOMString||
+HAVE_ENOUGH_DATA|const unsigned short||
+HAVE_FUTURE_DATA|const unsigned short||
+scope|DOMString||
+span|unsigned long||
+audioTracks|AudioTrackList||
+required|boolean||
+accessKeyLabel|DOMString||
+deleteRow|void|( index: long )|
+HAVE_CURRENT_DATA|const unsigned short||
+onresize|EventHandler||
+onsort|EventHandler||
+deleteTFoot|void|()|
+onseeking|EventHandler||
+contextMenu|HTMLMenuElement||
+height|DOMString||
+text|DOMString||
+cite|DOMString||
+value|long||
+NETWORK_IDLE|const unsigned short||
+defaultSelected|boolean||
+focus|void|()|
+position|double||
+setCustomValidity|void|( error: DOMString )|
+sectionRowIndex|long||
+rel|DOMString||
+duration|unrestricted double||
+length|unsigned long||
+ondragover|EventHandler||
+itemType|DOMSettableTokenList||
+onshow|EventHandler||
+selectionDirection|DOMString||
+currentSrc|DOMString||
+open|boolean||
+seeking|boolean||
+options|HTMLCollection||
+probablySupportsContext|boolean|( contextId: DOMString, arguments_..: any )|
+pattern|DOMString||
+sheet|StyleSheet||
+contentDocument|Document||
+ontoggle|EventHandler||
+track|TextTrack||
+NETWORK_EMPTY|const unsigned short||
+onmouseleave|EventHandler||
+onerror|OnErrorEventHandler||
+spellcheck|boolean||
+controls|boolean||
+lang|DOMString||
+ondrop|EventHandler||
+height|unsigned long||
+onmouseenter|EventHandler||
+oncontextmenu|EventHandler||
+alt|DOMString||
+onemptied|EventHandler||
+ondragend|EventHandler||
+src|DOMString||
+htmlFor|DOMString||
+autoplay|boolean||
+onmousemove|EventHandler||
+dropzone|DOMSettableTokenList||
+onafterprint|EventHandler||
+onoffline|EventHandler||
+getter|Element|( index_name: any )|
+autofocus|boolean||
+tHead|HTMLTableSectionElement||
+placeholder|DOMString||
+images|HTMLCollection||
+load|void|()|
+setSelectionRange|void|( start: unsigned long, end: unsigned long, direction?: DOMString )|
+onabort|EventHandler||
+onsuspend|EventHandler||
+onunload|EventHandler||
+showModal|void|( anchor?: MouseEvent|Element )|
+scoped|boolean||
+wrap|DOMString||
+action|DOMString||
+onstalled|EventHandler||
+labels|NodeList||
+defaultChecked|boolean||
+challenge|DOMString||
+ontimeupdate|EventHandler||
+onratechange|EventHandler||
+itemScope|boolean||
+ondragexit|EventHandler||
+isMap|boolean||
+onmouseout|EventHandler||
+length|long||
+size|unsigned long||
+selected|boolean||
+item|Element|( index: unsigned long )|
+insertRow|HTMLElement|( index?: long )|
+onloadedmetadata|EventHandler||
+forceSpellCheck|void|()|
+onload|EventHandler||
+sortable|boolean||
+click|void|()|
+onblur|EventHandler||
+tFoot|HTMLTableSectionElement||
+networkState|unsigned short||
+onmouseup|EventHandler||
+stepUp|void|( n?: long )|
+createCaption|HTMLElement|()|
+itemRef|DOMSettableTokenList||
+complete|boolean||
+selectedOptions|HTMLCollection||
+shape|DOMString||
+videoWidth|unsigned long||
+htmlFor|DOMSettableTokenList||
+defaultPlaybackRate|double||
+maxLength|long||
+onclose|EventHandler||
+ondragleave|EventHandler||
+charset|DOMString||
+formTarget|DOMString||
+dateTime|DOMString||
+formEnctype|DOMString||
+setter|void| creator( index: unsigned long, option: HTMLOptionElement )|
+commandDisabled|boolean||
+start|long||
+fastSeek|void|( time: double )|
+readOnly|boolean||
+toDataURL|DOMString|( type?: DOMString, arguments_..: any )|
+value|double||
+oninput|EventHandler||
+value|DOMString||
+autocomplete|DOMString||
+onvolumechange|EventHandler||
+headers|DOMSettableTokenList||
+volume|double||
+textTracks|TextTrackList||
+videoTracks|VideoTrackList||
+readyState|unsigned short||
+itemValue|any||
+onplaying|EventHandler||
+HTMLOptionElement|HTMLOptionElement|( text?: DOMString, value?: DOMString, defaultSelected?: boolean, selected?: boolean )|
+noValidate|boolean||
+getContext|RenderingContext|( contextId: DOMString, arguments_..: any )|
+onstorage|EventHandler||
+kind|DOMString||
+hreflang|DOMString||
+poster|DOMString||
+onmousedown|EventHandler||
+target|DOMString||
+onlanguagechange|EventHandler||
+tBodies|HTMLCollection||
+commandHidden|boolean||
+cells|HTMLCollection||
+paused|boolean||
+stepDown|void|( n?: long )|
+onpopstate|EventHandler||
+oninvalid|EventHandler||
+encoding|DOMString||
+ondrag|EventHandler||
+tabIndex|long||
+ping|DOMSettableTokenList||
+coords|DOMString||
+oncanplay|EventHandler||
+validity|ValidityState||
+content|DocumentFragment||
+radiogroup|DOMString||
+options|HTMLOptionsCollection||
+checkValidity|boolean|()|
+onmouseover|EventHandler||
+onloadeddata|EventHandler||
+addTextTrack|TextTrack|( kind: TextTrackKind, label?: DOMString, language?: DOMString )|
+currentTime|double||
+naturalWidth|unsigned long||
+played|TimeRanges||
+onsubmit|EventHandler||
+enctype|DOMString||
+multiple|boolean||
+relList|DOMTokenList||
+srcdoc|DOMString||
+list|HTMLElement||
+valueAsNumber|unrestricted double||
+hidden|boolean||
+srcset|DOMString||
+formNoValidate|boolean||
+menu|HTMLMenuElement||
+isContentEditable|boolean||
+srclang|DOMString||
+videoHeight|unsigned long||
+select|void|()|
+deleteCaption|void|()|
+sandbox|DOMSettableTokenList||
+onseeked|EventHandler||
+defaultMuted|boolean||
+getStartDate|Date|()|
+defaultValue|DOMString||
+HTMLAudioElement|HTMLAudioElement|( src?: DOMString )|
+onloadstart|EventHandler||
+elements|HTMLFormControlsCollection||
+commandIcon|DOMString||
+deleteTHead|void|()|
+playbackRate|double||
+close|void|( returnValue?: DOMString )|
+properties|HTMLPropertiesCollection||
+valueLow|double||
+dataset|DOMStringMap||
+willValidate|boolean||
+command|HTMLElement||
+content|DOMString||
+width|DOMString||
+rowSpan|unsigned long||
+cellIndex|long||
+dirName|DOMString||
+formAction|DOMString||
+select|DOMString||
+rows|unsigned long||
+namedItem|HTMLOptionElement|( name: DOMString )|
+onreset|EventHandler||
+selectedIndex|long||
+NETWORK_LOADING|const unsigned short||
+checked|boolean||
+controller|MediaController||
+oncanplaythrough|EventHandler||
+max|double||
+contentEditable|DOMString||
+buffered|TimeRanges||
+areas|HTMLCollection||
+max|DOMString||
+error|MediaError||
+muted|boolean||
+reset|void|()|
+onkeypress|EventHandler||
+LOADING|const unsigned short||
+accessKey|DOMString||
+name|DOMString||
+keytype|DOMString||
+commandLabel|DOMString||
+colSpan|unsigned long||
+valueAsDate|Date||
+onbeforeprint|EventHandler||
+getDistributedNodes|NodeList|()|
+setRangeText|void|( replacement: DOMString, start?: unsigned long, end?: unsigned long, selectionMode?: SelectionMode )|
+mediaGroup|DOMString||
+type|DOMString||
+optimum|double||
+high|double||
+ononline|EventHandler||
+httpEquiv|DOMString||
+onmousewheel|EventHandler||
+onprogress|EventHandler||
+remove|void|( index?: long )|
+add|void|( element: HTMLOptionElement|HTMLOptGroupElement, before?: HTMLElement|long )|
+href|DOMString||
+reversed|boolean||
+width|unsigned long||
+onbeforeunload|OnBeforeUnloadEventHandler||
+title|DOMString||
+cols|unsigned long||
+createTFoot|HTMLElement|()|
+minLength|long||
+onscroll|EventHandler||
+media|DOMString||
+blur|void|()|
+onclick|EventHandler||
+allowFullscreen|boolean||
+style|CSSStyleDeclaration||
+loop|boolean||
+selectionEnd|unsigned long||
+LOADED|const unsigned short||
+indeterminate|boolean||
+rowIndex|long||
+low|double||
+label|DOMString||
+onkeyup|EventHandler||
+step|DOMString||
+onplay|EventHandler||
+accept|DOMString||
+onautocomplete|EventHandler||
+naturalHeight|unsigned long||
+sizes|DOMSettableTokenList||
+insertCell|HTMLElement|( index?: long )|
+seamless|boolean||
+acceptCharset|DOMString||
+onwaiting|EventHandler||
+ondragenter|EventHandler||
